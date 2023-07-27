@@ -1,0 +1,97 @@
+﻿DV125_20_PAS ON Internet Connection Types
+
+
+1. What is satellite networking?
+        Satellite networking is sending and receiving data from satellite and it connects a large long distance area network anywhere in earth.
+2. How does the cost of satellite connectivity compare to other forms of internet connectivity?
+        As it connects to satellite it is cost a much than gound internet because maintaining satellite is much harder than ground or undersea internet cables.
+
+
+3. What are typical speeds for satellite internet?
+        It can be varies on network connection and signals. 50mbps downloading, 3mbps uploading 
+4. What are some common uses for satellite internet?
+        GPS
+5. What is latency when communicating with satellites in space?
+        A time to data packet reach to satellite and get back from satellite.
+6. How does satellite internet compare to terrestrial internet when it comes to latency?
+        250 miliseconds
+7. What is a newer type of satellite network?
+        Starlink
+8. What is the latency time advertised by Starlink?
+40 millisecond - 20 miliseconds
+9. What frequency range do satellite connections operate in?
+2 GHz 
+10. What is the cause of rain fade when using a satellite connection?
+Rain in between satellite and home or office(signal capture antenna).
+11. What is the advantage of fiber optic links for internet connections?
+It can send very large amount of data with light of speed
+12. Why is fiber optics more expensive than other internet connections?
+because maintains is difficult and costly and it communicate over long distance.
+13. How is fiber optics used in enterprise networks?
+Support very high speed data speed and cover large area.
+14. How does running fiber optics to a home or business improve bandwidth?
+        running on network core can improve bandwidth home and business
+
+
+15. What is the method of communication used by cable broadband?
+multiple frequency 
+16. How does cable broadband transmit video, voice, and data?
+sending data using different frequencies 
+17. Who might provide cable broadband service?
+        ISP or Telecommunication service provider 
+18. What is the standard for sending data over cable networks?
+Data over cable service interface specification 
+19. What are the typical speeds of DOCSIS networks?
+50 mbps - 1gbps
+20. Do you need to bring additional cables or services into your home for DOCSIS?
+No it will support all voice, video, internet 
+21. What is the technology that uses existing copper in a home?
+DSL (Digital Subcriber Line)
+22. What is the difference between the speed of download and upload on DSL?
+download means receiving data from DSL and upload means sending data to somewhere on internet.
+23. What are the typical speeds of DSL networks?
+200 mbps downloads,  20 mbps for upload
+24. What is the limitation of DSL in terms of distance?
+        Faster speed may possible while near the internet provider.
+
+
+25. What type of networks are commonly used for internet connectivity when away from home or office?
+        cellular network 
+
+
+26. How is internet connectivity provided through cellular networks?
+        through cellular Antenna 
+
+
+27. What is tethering?
+Turn your phone into router while turning of hotspot, bluetooth.
+
+28. What is a hotspot?
+Standalone device which used for other device may access internet through hotspot device
+
+29. What is a WISP?
+Wireless internet service provider
+
+30. In what areas are WISPs commonly found?
+Connect remote area or rural area
+
+31. What are the typical speeds of wireless networks provided by WISPs?
+         10 mbps to 1 gbps
+________________
+
+
+Section B
+
+
+Q1. What Is Satellite Internet?
+A. 
+Q2. What is fiber optic internet?
+A. 
+Q3. What is broadband internet?
+A. 
+Q4. What is DSL?
+A.
+Q5. What is a cellular network?
+A. 
+Q6. What is wisp internet?
+A.

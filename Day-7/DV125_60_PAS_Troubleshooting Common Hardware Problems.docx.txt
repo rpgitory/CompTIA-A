@@ -1,0 +1,223 @@
+﻿DV125_60_PAS_Troubleshooting Common Hardware Problems 
+
+
+Q1. What does POST stand for? **
+Ans. power on self test
+
+
+Q2. What is the POST? 
+Ans:  it is design to make sure that all of the main component are available in system.
+
+
+Q3. What happens if one of the components in a POST process is not working properly? **
+Ans: you will hear the series of beep and prompt will show up in screen and showing detailing of problem in it.
+
+
+Q4. What should you do if you want to know the different beep codes? 
+Ans: check on documentation of manufacturer because different manufacturer has diff beep codes
+
+
+
+
+Q5. The drives and their boot order are configured in the ___________ configuration.
+Ans. BIOS 
+
+
+Q6. What is the full form of BIOS?
+Ans.  Basic input output system
+
+
+Q7. What is the function performed by the BIOS?
+Ans. keeping track on date and time 
+
+
+Q8. What might happen if the battery has gone bad or all the voltage is depleted? 
+Ans: need to manually configured date and time 
+
+
+Q9.What should you do if you start your computer and get a blank screen?
+Ans.  check cabling (power cable and connection cable on monitor)
+
+
+Q10. How do you fix other problems like if the system tries to boot from a drive that is not the normal startup drive?
+Ans. change BIOS configuration and select a boot drive 
+
+
+Q11. What do you need to do if you’ve left a USB drive plugged in and the USB drive attempts to boot prior to the primary storage drive?
+Ans. change boot drive setting in BIOS or remove USB driver and restart computer
+
+
+Q12. What message will you get if something isn't working properly? 
+Ans. blue screen error
+
+
+Q13. Windows Stop Error also refers to as a _______________________.
+Ans. blue screen of death
+
+
+Q14. What information do you receive while seeing the blue screen on your system?
+Ans. your device ran into a problem and needs to restart.
+
+
+Q15. If this blue screen goes by very quickly and your system restarts, you can still go to the ____________________.
+Ans. windows event logs to check what was happened 
+
+
+Q16. How can you view the information associated with a Windows stop error? 
+Ans: by visiting event log manager
+
+
+Q17. What is the Event Viewer useful for? 
+Ans: to check system logs
+
+
+Q18. The reference pages on Microsoft’s website give a lot of detail on how you can resolve specific issues.( True/ False)
+Ans. False
+
+
+Q19. What should I do if my computer is displaying a blue screen error? 
+Ans: contact manufacturer or hardware that might be a issue, 
+
+
+Q20. Which websites can you use to research more about the Blue Screen Error? **
+Ans. windows.com/stopcode then place stopcode with stopcode that you received on screen.
+
+
+Q21.What are some potential causes of a blue screen? 
+Ans: bad hardware, bad driver or bad application that might not working properly in system.
+
+
+Q22. What will you do if your system is able to boot into Safe Mode but not able to boot into a full blown version of Windows?
+Ans. you can check whether you connect new hardware to system if it is then remove it and try to boot. Bcz if you can boot in safe mode it means when you are booting full bown windows at a time it might load a new driver that might causing a problem.
+
+
+Q23. You can get a hardware diagnostics utility directly from the _____________.
+Ans. manufacturer 
+
+
+Q24. _______________will have hardware diagnostics built into the BIOS.
+Ans. UEFI BIOS
+
+
+Q25. What is the technical name for the spinning beach ball on Mac OS 10? **
+Ans: Mac OS 10 Spinning wait cursor (spinning ball of death )
+
+
+Q26. What might happen when you see a spinning ball on your system and how to resolve it? 
+Ans: it means something happening with os 
+
+
+Q27. What might cause a spinning beach ball to appear on your system? 
+Ans:  you need to wait until some background process will have done.
+
+
+Q28. What if the cursor never reappears and you have to restart your system? **
+Ans.  power down system 
+
+
+Q29. What should you check when the screen of a desktop computer stays black?
+Ans: check all of the cabling.
+
+
+Q30. What are the possible inputs to a monitor? 
+Ans: HDMI, VGA, DVI, display port connector 
+
+
+Q31. How can you make a dim image on the screen brighter? 
+Ans: check brightness and contrast control
+
+
+Q32. What should you do if you see information on the screen but then everything goes black after Windows loads? 
+Ans:  move to VGA mode which is generic graphics mode which works on every computer motherboard
+
+
+Q33. __________________mode is able to work across almost every monitor on the market. **
+Ans. generic 
+
+
+Q34. What tool can be used to check if an outlet is providing power to the power supply? 
+Ans. multimeter or handhead tester
+
+
+Q35. What should you look for when determining if a computer is receiving power? 
+Ans: check power supply make sure everything cable properly and switches turn on.
+
+
+Q36. What should we check to determine if there is a problem with the motherboard? 
+Ans: We should check the power-on self-test process to see if it identifies any problems during the startup.
+
+
+Q37. The fans that are inside of your system need a lot of voltage to spin. ( True/ False).
+Ans. False
+
+
+Q38. How can I get an overview of my computer's performance?
+Ans. To be able to get an overview of performance, you may want to start Task Manager and view the CPU utilization for each individual process. There’s also a Performance tab. And clicking that brings up a list of CPU utilization for all processes on your computer. 
+
+
+Q39. What could cause a system to become sluggish? **
+Ans: process and running application 
+
+
+Q40. What can cause an operating system to perform poorly? 
+Ans: less resources, running many application, not enough power, cooling system not working properly
+
+
+Q41. What happens if your desktop system’s temperature rises? 
+Ans: system will automatically shut down or run cpu slower 
+
+
+Q42. What components generate heat in a computer system? 
+Ans: CPU, Graphics card, memory module
+
+
+Q43. How can you measure the temperature inside of a computer? **
+Ans: HWmonitor (third party utility)
+
+
+Q44. Why should electronic components be cleaned? 
+Ans: to keep smoothly running component 
+
+
+Q45. What if your backside of the system has a lot of dust and produces a heat, how will you resolve this issue?
+Ans. vacuum dust
+
+
+Q46. What could be causing my computer to abruptly power down? 
+Ans: a single component failing and make the system abruptly power down 
+
+
+Q47. What should you do after eliminating items that are working properly? 
+Ans:  you can move your focus towards the devices that may now working properly 
+
+
+Q48. What message might you receive when Windows has identified a problem? 
+Ans: windows explorer stop working 
+
+
+Q49. What is the Reliability Monitor? **
+Ans: a history of application problems (give you graphical view of your error system logs )
+
+
+Q50. What could be causing a scraping noise inside my system? 
+Ans: harm of hard drive or a fan that spinning in computer case
+
+
+Q51. What happens if a capacitor is damaged? 
+Ans: need to replace
+
+
+Q52. : What is a very frustrating error that can occur in an operating system and how will you resolve that? 
+Ans: everything certainly freezing 
+
+
+Q53. What if you’ve recently installed a new driver or updated any part of your operating system?
+Ans. can cause a freezing issue with computer
+
+
+Q54.How can you prevent your computer from automatically restarting after a stop error or blue screen? **
+Ans: system property configuration then changes the setting and disable automatic restarting mode (by document where the actual reboot process occurring whether is on BIOS messages, OS Splash screen, or press F8 and go to a good boot process which has done last time in system or try safe mode)
+
+
+Q55. What is the best way to reset the BIOS configuration? **
+Ans:  short a jumper and restart a computer bcz BIOS configuration now a days stored in flash memory. (early days system can reset BIOS by removing date and time battery cell)

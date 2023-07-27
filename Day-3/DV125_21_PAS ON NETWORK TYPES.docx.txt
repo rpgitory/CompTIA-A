@@ -1,0 +1,123 @@
+﻿DV125_21_PAS ON NETWORK TYPES
+
+
+* What is a LAN?
+   * Local Area Network where all devices locally connected with each other (ex all devices in office or multiple floor systems)
+
+
+* What are the typical network connections for a LAN?
+   * Switch
+
+
+*  \What is a WAN?
+   * same as LAN but compared to LAN it covered large area.
+* Why are the speeds slower on a WAN compared to LAN?
+   * It is because WAN is covered long distance and whenever distance is longer so it take much time than near distance so it take time to send-receive data from one location to another location.
+
+
+* What are some examples of technologies used in a WAN?
+   * internet, ISP provider, ATM system, Cellular network, Satellite network, etc
+
+
+* How are WANs connected?
+   * internet 
+
+
+* What is a PAN?
+   * personal area network, ex mobile hotspot
+
+
+* What are some examples of technologies used in a PAN?
+   * hotspot, bluetooth, NFC
+
+
+* What is one of the most common ways to connect a personal area network?
+   * hotspot, headphone, smart watch 
+
+
+* What type of telemetry can be acquired using a personal area network?
+   * health
+
+
+* What is a Metropolitan Area Network (MAN)?
+   * It is smaller than WAN and larger than LAN such as college network.
+
+
+
+
+* How does the distance of a MAN compare to that of a LAN and WAN?
+   * smaller than WAN and bigger than LAN(LAN < MAN < WAN), same city 
+
+
+* What is the most common topology for connecting sites in a MAN today?
+   * metro ethernet
+
+
+* What type of organizations tend to use Metropolitan Area Networks?
+   * Government ownership
+
+
+* What is a Storage Area Network (SAN)?
+   * looks like local storage device,  centralized storage with block level access
+
+
+
+
+* How is data accessed on a SAN?
+   * solated high speed network 
+
+
+* What is the typical bandwidth requirement for a SAN?
+   * required a lot of bandwidth, may use separate
+
+
+* Are SANs isolated on their own networks?
+   * yes
+
+
+* What is a Wireless Local Area Network (WLAN)?
+   * wireless 802.11
+
+
+* What is the range of a WLAN?
+   * mobility, limited geographical area
+
+
+* How can the size of a WLAN be extended?
+   * adding extender 
+
+
+
+
+* How do WLANs differ from other wireless networks?
+   * WLAN can provide limited area network while wireless network can provide large distance area ex cellular network, satellite network.
+________________
+Section -B  Q&A Network Types
+
+
+Q1. What is a LAN?
+
+
+1. Local Area Network, ex one office
+
+
+Q2. What is a WAN network?
+
+
+1. Wide Area Network, Anywhere on earth, connected via VPN, Proxies, internet, Satellite, cellular network, telephone line, etc.  
+
+
+Q3. What is a PAN network?
+A. Personal Area Network, ex bluetooth, hotspot, NFC 
+
+
+Q4. What is MAN network?
+A. Metropolite Area Network, Within one city area
+
+
+Q5. What is a SAN network?
+A. Storage Area Network, used isolated network because it required high speed bandwidth 
+
+
+Q6. What is WLAN network?
+A. Wireless Local Area Network, ex home router,

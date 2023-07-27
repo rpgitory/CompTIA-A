@@ -1,0 +1,173 @@
+﻿DV125_46_PAS On Multifunction Devices 
+Self-Assessment Sheet
+
+
+
+
+Q1. What is a multifunction device? 
+Ans: A device and perform many functions 
+
+
+Q2. A multifunction device may not be the small device that you might buy from an office supply store and install at your home. (True/False?
+Ans. True
+
+
+Q3. __________________will need to be installed in a particular area with the proper amount of power, network connectivity, and accessibility so that everybody can gain access to the system.
+Ans. Enterprise 
+
+
+Q4.What do you need to use a multifunction device? 
+Ans: appropriate driver installed in system to interact with it
+
+
+Q5. What should you do when selecting a print driver? 
+Ans: Check Operating system and installed print driver according to OS.
+
+
+Q6. What does PCL stand for?
+Ans. Printer Command Language 
+
+
+Q7. PCL was created by _______________ for their _____________.**
+Ans. HP (Hewlett-Packard), industry
+
+
+Q8. PostScript that was created by ______________. **
+Ans. Adobe system
+
+
+Q9. What is PostScript?
+Ans. High end design printing that can use in print houses. **
+
+
+Q10. What type of driver should be used for a PCL or PCL-configured printer? 
+Ans:         PCL driver for PCL configured printer. Same with postscript
+
+
+Q11. If it’s configured to work as a PostScript printer, the driver you should be using should clearly be a___________________.
+Ans. PostScript driver 
+
+
+Q12. One of the very common ways to connect to a printer is using ___________________.
+Ans. USB or wire connection
+
+
+Q13. What are two ways to connect to a printer? 
+Ans Wired and RJ45 ethernet (network)
+
+
+Q14. _____________ allows you to print across the network, and you wouldn’t need to have any type of USB connectivity.
+Ans.  ethernet 
+
+
+Q15. What options are available on the back of a printer? 
+Ans: multiple option to connect it (RJ45 connector, USB B connector)
+
+
+Q16. How can a user connect a printer to their environment? 
+Ans: wireless or bluetooth
+
+
+Q17. What is 802.11? 
+Ans: wireless network
+
+
+Q18. What are the two ways to connect to a printer over a wireless connection? **
+Ans: Infrastructure mode(access point), Ad HOC mode (one to one connection)
+
+
+Q19. You could also configure wireless communication to be a one-to-one relationship, using _________________. **
+Ans. Ad Hoc mode.
+
+
+Q20. What should we do next after installing the multifunction device wired or wirelessly?
+Ans. allow other or giving permission to other to access printer or sharing printer
+
+
+Q21. How can I allow others to use printers in Windows? 
+Ans: by sharing printer (Windows = Printer Share)
+
+
+Q22. What is the Properties window of a Brother printer? 
+Ans: Print share
+
+
+Q23. How can users access a shared printer? 
+Ans: by looking for printer name.
+
+
+Q24. What is the challenge with a printer shared on someone’s computer? 
+Ans: host user power off so no one can access printer
+
+
+Q25. What is a print server? 
+Ans: it is a software that running on printer itself and allow to printer to direct communicate with other user.
+
+
+Q26. How can jobs be managed on a printer? 
+Ans: printer management page
+
+
+Q27. What is the Duplex option? 
+Ans: Print both side on page
+
+
+Q28. Are all printers capable of Duplex printing? 
+Ans: No
+
+
+Q29. What is the difference between Portrait and Landscape mode? 
+Ans: portrait is long in length and short in width while landscape is opposite of it.
+
+Q30. What options may be available on larger printers? 
+Ans: allows a multiple paper tray and each of might have different paper size tray
+
+
+Q31. What types of paper might be in different trays? 
+Ans: plain paper, letter head, legal size paper and so on
+
+
+Q32. How do you choose the tray you'd like to use? 
+Ans: when print a paper there is a option to choose a paper size.
+
+
+Q33. How can you determine what paper is in each printer tray? 
+Ans: by viewing physically in each tray  or by property of printer
+
+
+Q34. What options are available on mini printers? 
+Ans: 
+
+
+Q35. What is the benefit of using a color-saving mode? 
+Ans: It won’t a use a much color that might need for non draft print it means it 
+
+
+Q36. Why might we want to limit how much toner or ink we print? 
+Ans: Bcz ink and toner relatively expensive, if minimize the use of it so we can save money on long run
+
+
+Q37. How can we configure a printer with security settings to limit access to ink or toner? **
+Ans: color saving mode
+
+
+
+
+Q38. What are some ways to secure printing? **
+Ans: by allowing access to printer (do not allow everyone in office to print ), by id badge
+
+
+Q39. What are some logs that might be used to help troubleshoot printer problems? 
+Ans: audit logs (allows to see who used printer recently, what is print, how many pages he print)
+
+
+Q40. What are Secured Prints? **
+Ans: personal identification number is a feature in windows, by enabling it that allows you a print after that you enter a PIN to printer so even if you have not send any print jobs no one can print it out from your system.
+
+
+Q41. What can multifunction devices do? 
+Ans: it can performed multiple function such a printer, scanner, fax all in one device
+
+
+Q42. What can you do with a scanned image from a multifunction device? **
+Ans: You can decide what happens after multifunction device scan image like you can email to your email you can print it out

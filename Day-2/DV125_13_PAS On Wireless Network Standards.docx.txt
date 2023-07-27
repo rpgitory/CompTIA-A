@@ -1,0 +1,61 @@
+﻿DV_125_13_PAS On Wireless Network Standards
+Self-Assessment Sheet
+
+
+1. What is 802.11a speed?
+54 mbps        
+
+
+2. What is 802.11a Frequency & range?
+54Mbps and 5 GHz
+        
+3. What are some other features of 802.11a?
+first evolution which transfers data wireless with great speed.
+        
+4. What is 802.11b Speed?
+11 mbps
+        
+5. What is 802.11b Frequency & range?
+2.4 GHz 
+        
+6. What are some other features of 802.11b?
+less absorption problem (used for long distance)
+        
+7. What is 802.11g Speed?
+54 mbps
+        
+8. What is 802.11g Frequency & range?
+2.4 GHz
+        
+9. What are some other features of 802.11g?
+Backwards-compatible with 802.11b standards 
+        
+10. What is 802.11n Speed?
+wifi(4) 150 mbps - 600mbps
+        
+11. What is 802.11n Frequency & range?
+40 MHz channel wdiths (2.4 GHz / 5 GHz) 
+        
+12. What are some other features of 802.11n?
+multiple-input multiple-output
+        
+13. What is 802.11ac Speed?
+wifi 5, 867 mbps - 7 gbps
+        
+14. What is 802.11ac Frequency & range?
+160 MHz channel bandwidth , 5GHz
+
+
+15. What is 802.11ax Speed?
+wifi 6, 1.2gbps - 9gbpa
+
+
+16. What is 802.11ax Frequency & range?
+5 Ghz / 2.4 GHz , support 20, 40, 80, 160 Mhz channel widths 
+
+
+17. What is RFID?
+Radio Frequency Identification.
+        
+18. How does RFID work?
+Radio Frequency Identification. it has a two devices one is sender and another receiver. one is keep sending signal and when signal reach to receiver it identify it.

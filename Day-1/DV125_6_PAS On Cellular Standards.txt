@@ -1,0 +1,63 @@
+﻿DV125_6_PAS Cellular Standards
+Self-Assessment Sheet
+
+1. What were the original cellular networks called?
+Ans: -1G 
+
+2. What are the two global standards for cellular network?
+Ans: - GSM, CDMA
+
+3. What does GSM stand for?
+Ans: - Global System for Mobile Communication
+
+4. What does CDMA stand for?
+Ans: - Code Division Multiple Access
+
+5. What does LTE stand for?
+Ans : - Long Term Evoultion
+
+
+6. What is the newest generation of cellular network?
+          Ans: - Fifth Generation or 5G
+
+7. Organizations handle email a little bit differently, and most organizations will have a corporate configuration that needs to be added to the mobile device. True and False?
+Ans: -True
+
+8. CDMA was the most popular in the world and with providers. True or False?
+Ans: - False
+
+9. CDMA was used by what two mobile carriers?
+Ans: - Verizon and Sprint
+
+10. What two standards of cellular network were very good for voice communication?
+Ans: - GSM, CDMA
+
+11.  What was a limitation with GSM and CDMA networks?
+Ans: - Sending Data into wireless networks
+
+12.  What percentage of the worldwide market did GSM hold?
+Ans: - 90%
+
+13.  What network allowed you to have all of your phone configurations on a subscriber identity module or a SIM (Subscriber Identity Module) card?
+Ans: -GSM
+
+14. This network allowed us to have much more capabilities for the data that we were sending from our mobile devices. And with additional speed, we could send more of that data much faster over these same networks?
+Ans: -3G
+
+15. This network controlled exactly what handsets you were able to use on their networks and was not so popular around the world?
+Ans: - CDMA
+
+16.  What was introduced as the third new network?
+Ans: - 3G or GPRS
+
+17.  With the enhanced speeds of the 3G network, we were able to introduce new capabilities for our mobile handsets. What are some examples?
+Ans: - Internet, multimedia streaming, video streaming.
+
+18.  What does LTE stand for and what are the average speed of the network?
+Ans: -Long Term Evolution, 150mbps-300mbps
+
+19.  The new 5G networks have introduced greatly enhanced speeds. Eventually what speeds will the network be able to perform at?
+Ans: -10Gbps
+
+20. As these 5G networks are rolling out, you may find that you have speeds between ___ and __ megabits per second?
+     Ans: -100 and 900 

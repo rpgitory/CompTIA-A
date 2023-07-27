@@ -1,0 +1,62 @@
+﻿DV125_9_PAS On Introduction to IP
+Self -Assessment Sheet
+
+
+1. What is Internet Protocol (IP)?
+It is a address which used to interaction between two devices. Using IP it send data from one IP (device) to another device IP (device).
+        
+2. What is the meaning of Encapsulation?
+It is wrapping a packet with additional header or additional layer which is normally used to sending packet to destination through pre established path on network.
+
+
+3. What does TCP stand for?
+Transmission Control Protocol
+        
+4. How does TCP (Transmission Control Protocol) work?
+It send first connection request to server once server reply with request accepted then it will send ack and then server acknowledged back then after it start transferring data. It’s also called 3 way handshake. It checks error correction and checksum whether packet has been received or not and packet has not been modified by or corrupted if it is then it will re-send packet again. 
+ 
+5. What does UDP stand for?
+User Datagram Protocol.
+        
+6. How does UDP (User Datagram Protocol) work?
+It is used to sending data without verifying that data packet is reached to destination or not. UDP is just constantly sending data packets to destination IP. Mostly used for streaming media, gaming etc.
+
+
+7. What is OSI Layer 4?
+Transport
+
+
+8. What does OSI Layer 4 - Transport Layer do?
+It send data traffic with end-to-end connection using protocol such as TCP / UDP and so on. It maintain data flow during transmission means it make small segments which received by large data from upper layer and then forward to network layer and vice-versa. It maintain flow of transferring data in network and it also allows multiplexing and demultiplexing to multiple application it allowed unique identifier port number to it.
+
+
+9. What is Multiplexing?
+Used many application as same time it means it can use TCP protocol and also UDP same time so multiplexing is transferring data or multiple signals convert into one signal.  
+
+
+10. What is a port?
+Port is a service or logical entity which allows communication between processes on running network. It act as communication endpoint that identifies specific application or service on network. 
+
+
+11. What is a Port Number?
+Port number is responsible for allowing what services run on which port so each port number runs for unique service. Like 21 FTP, 22 SSH, 23 Telnet, 443 SSL or HTTPS, 53 DNS etc.
+
+
+12. What does IPv4 Socket consist of?
+It is combination of ipv4 address and port number to communicate in network. Ipv4 socket deliver data to appropriate service which running on network.
+
+
+13. What are Non-Ephemeral Ports?
+Non-Ephemeral port is not temporary port which means that port is assigned for that particular service for all devices. There are 0-1023 ports are non-ephemeral ports.
+
+
+14. What are Ephemeral Ports?
+Ephemeral Ports are temporary port which can use to run any service for at that time period means once device is turn off or shut down service then user need to have start service or assign service on these ports. Rang of Ephemeral ports are 1024-65535. It also called as dynamic ports.
+
+
+15. What is Data Transport Analogy?
+It is a method or procedure which provides information about how data is sending and receiving in network.
+
+
+16. What is Network Topology?
+Network topology refers to physical and logical topology that how devices connected to each other. Ex bus, start, mesh, ring, hybrid (two or more basic topology includes)

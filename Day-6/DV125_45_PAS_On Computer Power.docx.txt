@@ -1,0 +1,209 @@
+﻿DV125_45_PAS On Computer Power
+Self-Assessment Sheet
+
+
+
+
+Q1. Why should you disconnect from the power source when working on a computer? Ans: bcz it can electric shock while performing any task in computer
+
+
+Q2. What is a challenge you might have when working on electronic components? 
+Ans: some devices store a charge in capacitor so even if you disconnect device with power it can still shock you. So beware of disconnecting those capacitor devices.
+
+
+Q3. What should you never do when working with an electrical system? 
+Ans: never touch of any part of electric system to your body so always wear electric resistance gloves and never be connected to ground.
+
+
+Q4. What type of power does a computer motherboard and components commonly use? 
+Ans: DC (direct power)
+
+
+Q5. Power sources are receiving________________________ from the power outlet. 
+Ans.  Alternative current 
+
+
+Q6. How would you get the conversion  betweenAC & DC?
+Ans. power supply of your computer that convert AC to DC. (most important component of your system)
+
+
+Q7. What are the common voltages provided by power supplies? 
+Ans: 120V AC, 240V AC to DC (3.3V, 5V, 12V)
+
+
+Q8. One measurement that we use with power is an ______________.
+Ans. Ampere or A
+
+
+Q9. What does an ampere measure? 
+Ans: Rate of electrons which pass by per second.
+
+
+Q10. What is voltage? 
+Ans: To how much pressure electricity applies in wire or in flow.
+
+
+Q11. What is a watt? 
+Ans: it is a measurement of real power use. W = V x A [120V x 0.5A = 60W]
+
+
+Q12. How would you calculate the number of watt used?
+Ans. W = V x A [120V x 0.5A = 60W]
+
+
+
+
+Q13. _______________ is the type of power that we are receiving from the outlet that’s in the wall. 
+Ans. AC (Alternative Current)
+
+
+Q14. Why do we commonly distribute power using alternating current? **
+Ans. bcz it can send to very long distances
+
+
+Q15. What is the power of alternating current in the US and Canada? 
+Ans: 110 to 120 V of 60 Hz
+
+
+
+
+Q16. What is the frequency of alternating current in Europe?
+Ans: 220 to 240V of 50Hz
+
+
+Q17.We often refer to the number of times this current alternates as a total number of _________________.
+Ans. Cycles or hertz
+
+
+Q18. If alternating current is going into our power supply, then______________, is what is coming out of our power supply and onto the _________________.
+Ans. DC, Motherboard
+
+
+Q19. What is the voltage and frequency for a power supply in the US? 
+Ans: 120V AV, 60Hz
+
+
+Q20. What is the voltage and frequency for a power supply in Europe? 
+Ans: 230V AC, 50Hz
+
+
+Q21. What should be done if a computer is moved from one country to another? **
+Ans: Power supply changed or we need new power supply converter 
+
+
+Q22. How can you determine the voltage of a wall outlet? **
+Ans: multimeter 
+
+
+Q23. What should you be careful of when using a manually switched power supply? 
+Ans: check what power supply is coming and what devices is connecting to it.
+
+
+Q24. What is the purpose of the switch on the back of the power supply? 
+Ans:  maintain power supply source
+
+
+Q25. What is the power supply used for? 
+Ans: converting AV to DC
+
+
+Q26. What is direct voltage? 
+Ans: Direct voltage is contact voltage drives a current in one direction.
+
+
+Q27. What is a characteristic of direct voltage? **
+Ans: Specified a voltage positive value or negative value
+
+
+Q28. What components typically require higher voltages? **
+Ans: PCIe adapters, graphics card, hard drive motor, fans (12V)
+
+
+Q29. What voltage is usually used for modern motherboards? 
+Ans: 3.3V
+
+
+Q30. What components take advantage of the 3.3 volts on modern motherboards? **
+Ans: NIC, M.2 slots, RAM slots 
+
+
+Q31. What is the Standby voltage used for? **
+Ans: It is used for when system is in hibernation mode when it need to awake mode it turn of power supply (+5 VSB)
+
+
+Q32. What type of components use negative 12 volts? **
+Ans. Old serial ports, some PCI cards  
+
+
+Q33. Are modern motherboards designed to use minus 5 volts? 
+Ans. no
+
+
+Q34. Does the power supply support the 120 volts used in the US? 
+Ans. yes
+
+
+Q35. If you add up all of the DC voltage that’s supported by this power supply, it can support a total of __________.
+Ans. 850W
+
+
+Q36. We get power from the power supply to the motherboard through this very large ______________.
+Ans. 24 pin connector
+
+
+Q37. What type of connector is used in modern systems? 
+Ans: 24 pins
+
+
+Q38. How do you connect the power connector to the motherboard? 
+Ans: by looking connector pin and there is a only one way to connect it.
+
+
+Q39. What type of computers likely have a single power supply? 
+Ans: home computer
+
+
+Q40. What type of devices may have multiple power supplies? 
+Ans: data center and server room have multiple power supply
+
+
+
+
+Q41. How is the load shared between multiple power supplies? 
+Ans: it will equally distribute power load 
+
+
+Q42. How do you remove a power supply from a server? **
+Ans: hot-swappable (there is a switch that we can slightly push out entire power supply)
+
+
+Q43. What type of connectors are typically found on the side of a power supply that goes to the motherboard? 
+Ans: multiple connector 
+
+
+Q44. What is a modular power supply? 
+Ans: it means we can decide what type of wire connector we need for mother board or we can add new cable as we needed
+
+
+Q45. How do you balance the maximum capacity of a power supply? 
+Ans: by checking documentation that how much max power system needed, and then purchase power supply according to it.
+
+
+Q46. Does having additional capacity in your power supply change the overall speed or efficiency of your computer? 
+Ans: no
+
+
+Q47. Can you purchase a power supply from any manufacturer? 
+Ans: Yes
+
+
+Q48. What is the physical size of power supplies? 
+Ans: it is relatively standard unless using very old computer.
+
+
+Q49. What is needed to determine the proper size for a power supply for a system? 
+Ans: calculate the watts required for all components such as CPU, Storage devices, Video adapter, 
+
+
+Q50. How do I calculate the wattage needed for my system? 
+Ans: many online calculator, by measure all of the components voltage system need. And purchase a double of value that you measured (all components sum x 2) bcz of future expansion hardware.

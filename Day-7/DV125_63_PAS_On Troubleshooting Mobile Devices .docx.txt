@@ -1,0 +1,205 @@
+﻿DV125_63_PAS_On Troubleshooting Mobile Devices
+Self-Assessment Sheet
+
+
+Q1. Why does the use of batteries tend to degrade over time and how to solve this issue?
+Ans. The usefulness of that battery tends to degrade over time because each time you recharge the battery, you’re losing a little more capacity in that battery each time. And after years of recharging, you’ll find that the battery doesn’t seem to have the same capacity that it once did. In those cases, the best fix is to replace the battery in that device.
+
+
+Q2. How can you reduce battery use on a mobile device? 
+Ans: You can reduce battery use on a mobile device by being aware of the reception for your device and avoiding going outside the range of your provider’s network.
+
+
+Q3. What happens if your phone is out of range of a signal? 
+Ans: Your phone will constantly keep trying to reconnect to a signal that ultimately is not going to be there, and the longer you stay out of the range of that signal, the more of the battery you’re going to use.
+
+
+Q4. What can you do if you know you’re going to be outside the signal range for your provider? 
+Ans: You can save some of that battery by enabling airplane mode, even though you’re on the ground. This will disable the radios in your mobile device and stop constantly checking to see if there is a signal, and therefore save battery life.
+
+
+Q5. What does Airplane mode do? 
+Ans: Airplane mode disables the cellular phone capability from your device, as well as 802.11 networking, Bluetooth, and GPS radios. 
+
+
+Q6. How can I find out which applications are using the most amount of my battery? 
+Ans: You can check the built-in battery features on your mobile device to find out which applications are using the most amount of your battery. If you're using iOS and iPadOS or Android, you'll find all of those configuration options under Settings and Battery.
+
+
+Q7. : What happens if the battery has a buildup of gas?
+Ans: The entire battery package will appear to be swollen.
+
+
+Q8. What does a battery inside a mobile phone or tablet look like? 
+Ans: It is relatively flat and can fit inside those mobile devices.
+
+
+Q9. Why should we not open or puncture this particular battery? 
+Ans: You should not open or puncture this particular battery because it is designed to capture and contain any gases released from a failing battery, and puncturing the package may pose a fire risk.
+
+
+Q10. What should be done with the old battery? 
+Ans: The old battery should be disposed of at a hazardous waste facility.
+
+
+Q11. What can happen if a battery becomes too swollen? 
+Ans: It can damage the device and cause the top of the phone to come off.
+
+
+Q12. Is there a risk of additional damage from a swollen battery? 
+Ans: No, there is not a risk of additional damage from a swollen battery.
+
+
+Q13. What material is commonly used to make the screens of mobile devices? 
+Ans: The screens of mobile devices are commonly made of glass.
+
+
+Q14. : What should you do if your device's screen breaks? 
+Ans: If your device's screen breaks, you may need to replace the entire device or replace the screen itself. If your device is still functional, this would be a perfect time to perform a backup, especially since we don’t know what other damage may have occurred to this device.
+
+
+Q15. Is there any way to fix the glass that's on the front? 
+Ans: Unfortunately, no.
+
+
+Q16. What should you do if there is broken glass on the front of your device? 
+Ans: Be very careful about touching any part of the broken glass, as it can be extremely sharp and easy to cut yourself. You may want to take some clear tape and put over the broken glass to use the device without the fear of accidentally cutting yourself.
+
+
+Q17. What can help you troubleshoot a charging issue with your mobile phone? Ans:Checking the interface where you're connecting your charging cable to the device, and cleaning out any dirt and lint that may be collected there can help you narrow down where the problem may be occurring.
+
+
+Q18. What should you do to troubleshoot a device that won't connect to a mobile device? 
+Ans: Check the cable that is being used and make sure it is not damaged or frayed, and then make sure the cable is one that is known to be operational. Try the cable on another mobile device to make sure it is a known good cable.
+
+
+Q19. What can you do if your device takes a long time to charge? 
+Ans: You may want to pull out your multimeter and perform a few checks to see if you’re really getting the right voltage from your wall outlet and the right voltage from the connector that’s plugging into your mobile device.
+
+
+Q20. What can affect the signal strength on a cellular or Wi-Fi network? 
+Ans: There are a lot of variables that can affect the signal strength that we receive on a cellular network or a Wi-Fi network, mostly revolving around where you happen to be at any particular moment. 
+
+
+Q21. What causes the fluctuation of signal strength? 
+Ans: The fluctuation of signal strength can be caused by moving to a different area within the same building.
+
+
+Q22. How can you tell how much signal you're receiving on a cellular connection? 
+Ans: You can tell how much signal you're receiving on a cellular connection by looking at the signal strength meter. 
+
+
+Q23. Does location matter when it comes to getting a cellular signal? 
+Ans: Yes, location matters when it comes to getting a cellular signal. It's much more difficult for the signal to reach your device if you're inside of a building than if you're outside.
+
+
+Q24. What is the range of a Wi-Fi network? 
+Ans: The range of a Wi-Fi network is relatively limited.
+
+
+Q25. What can cause interference with a Wi-Fi network? 
+Ans: Interference with a Wi-Fi network can be caused by other devices that are either on the same network or use the same frequencies. 
+
+
+Q26. How can you improve the throughput of a Wi-Fi network? 
+Ans: You can improve the throughput of a Wi-Fi network by changing the channel or frequencies in use by your access point.
+
+
+Q27. What is one of the biggest enemies of mobile phones and tablets? 
+Ans: One of the biggest enemies of mobile phones and tablets is liquid. 
+
+
+Q28. Is water damage covered under the warranty for a device? 
+Ans: No, water damage is not covered under the warranty for a device. 
+
+
+Q29. What does LCIs stand for?
+ANs. Liquid contact indicators
+
+
+Q30. What are LCIs?
+Ans. These are small sensors inside of your device that will turn a color if they happen to come in contact with any type of liquid. On phones and tablets, there will be multiple places inside of that device that contain one of these LCIs.
+
+
+Q31. What should you do if you get water on your device? 
+A: Immediately power down the device, and do not plug it in or power it back on. Remove all components such as the case, any cards (e.g. Sim card), and the battery if it is removable.
+
+
+Q32. What is a better alternative than rice to remove large amounts of liquid in a small amount of time? 
+Ans: A better alternative than rice to remove large amounts of liquid in a small amount of time is to use a different type of desiccant, such as the silica gel packs, which are able to pull water much easily from the air.
+
+
+Q33. What should I do if my phone has water damage? 
+Ans: If there’s any chance of recovering the device after water damage, it’s to let the device completely dry out. This means you should not turn it on, you should not charge the phone, you should not connect it to any type of power source, press any keys that are on the device, do not heat the phone or the device, and do not move it around.
+
+
+Q34. Are there sensors inside of phones and tablets? 
+Ans: Yes, there are sensors inside of phones and tablets.
+
+
+Q35. What will the sensors do if it gets too hot? 
+Ans: The sensors will automatically turn the device off to prevent it from damaging the device further.
+
+
+Q36. Apart from water, what is another bad thing for mobile devices?
+Ans. Heat
+
+
+Q37. How can I determine which app is causing heat in my device? 
+Ans: You can use app usage utilities on your phone and tablet to find out how much CPU is being used by each individual app. This will help you determine which app is causing the heat.
+
+
+Q38. What happens if you put your device in direct sunlight? 
+Ans: It will heat up very quickly and automatically shut down to prevent any damage.
+
+
+Q39. What should you do if the screen is completely black and nothing seems to be responding to any type of input? 
+Ans: You may need to do a reset.
+
+
+Q40. How do you do a soft reset on an Apple device? 
+Ans: Hold down the Power button and you'll get a message that says "Slide to power off". Then press the Power button to power it back on.
+
+
+Q41. How do you do a hard reset on an Apple device? 
+Ans: Hold down the Power button and hold at the same time the Home or the Volume button for 10 seconds. It will then automatically reset itself and you should see the Apple logo as it's booting back up.
+
+
+Q42. How do you perform a hard reset on an Android device? 
+Ans: You can perform a hard reset on an Android device by holding down the Power and Volume buttons until the system restarts, or by popping out the battery if the device has a removable battery and then restarting the phone.
+
+
+Q43. What might happen if the interfaces on these devices become damaged? 
+Ans: If the interfaces on these devices become damaged, you may notice that when you’re trying to charge the device, that it only charges if the cable is put in in a certain way, or maybe the data transfer function is no longer working from that device.
+
+
+Q44. What may have caused the device's interface to stop working? 
+Ans: This may have been caused by someone tripping over a charging cord or someone who accidentally dropped the device on the floor. 
+
+
+Q45. What is one of the problems with interfaces that are built into the system board of a device? 
+Ans: One of the problems with these types of interfaces is that they’re built into the system board of the device itself, so to replace that single interface, you would very commonly have to replace the entire system board.
+
+
+Q46. What is a common challenge with all of our devices? 
+Ans: The common challenge is the threat of malware and other malicious applications.
+
+
+Q47. What should you look at to determine if there is an issue with data transfer? 
+Ans: You should look at reports of data transfer to see if certain applications may be transferring more than usual, or the overall data transfer rate is much higher than expected. You should also check for unusual pop-up messages appearing on your screen, or if your device has very high CPU usage, or if it tends to be overheating more than usual.
+
+
+Q48. What are some potential causes of a quickly-draining battery?
+Ans: Potential causes of a quickly-draining battery include having too many applications running in the background, leaving Wi-Fi, Bluetooth, or location services on when not in use, having the brightness of the display set too high, and having a weak or damaged battery. 
+
+
+Q49. What if the battery continues to be depleted? 
+Ans: If the battery continues to be depleted, it may indicate that some other process is running constantly on the mobile device. A third-party application or virus scanner can be used to identify anything unusual that may be loaded on the device.
+
+
+Q50. What is cursor drift? 
+Ans: Cursor drift is when your device is still, there’s nobody touching the device, but you notice that the cursor is moving around the screen.
+
+
+Q51. What can be done to solve the problem of cursor drift? 
+Ans: There’s usually a calibration app built into the device that asks you to touch different places on the screen to recalibrate what it expects when people are providing any input. This will usually stop any type of random input or cursor drift, and your device will go back to normal operation.

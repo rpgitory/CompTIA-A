@@ -1,0 +1,44 @@
+﻿DV_125_16_PAS On Assigning IP Addresses
+Self-Assessment Sheet
+1. How to assign IPv4 IP addresses for Private IP?
+By assigning ip address, subnet mask, default gateway.
+
+
+2. What is the process of DHCP (Dynamic Host Configuration Protocol)?
+DORA 
+discover server in network 
+Offer a ip address to device 
+Request ip address and lock in offer
+Acknowledge a DHCP server configuration 
+
+
+3. What is the result of DHCP (Dynamic Host Configuration Protocol)?
+Provide automatically ip address and it is better than BootP protocol. bcz it knows if device is no longer connected on internet and it fully assign dynamic ip to device (ip address, subnet mask, default gateway), 
+
+
+4. Features of Static IP address?
+It will remain same whenever you connect to network because it reserved for that particular device.
+
+
+5. Features of Dynamic IP address?
+It will simply assign ip from DHCP pool. and it do not need any configuration for it.
+
+
+6. What is Automatic Private IP Address (APIPA)?
+A link Local Address, it can not interact outside network, IETF has reserved traffic 169.254.0.0 - 169.254.255.255 for APIPA, It finds a device before assigning ip address to new device by sending ARP request. bcz it can’t communicate outside network so default gateway is none.
+
+
+7. What is unicast addresses?
+Packet move to one after one host or node in network. one-to-one
+
+
+8. What is multicast addresses?
+Packet can send to more than one address at same time. one-to-many
+
+
+9. What is anycast addresses?
+Packet will send randomly to any ip address in network. one-to-nearest one
+
+
+10. What is BootP?
+It is a first protocol which used for providing dynamic ip address but it was not that successful protocol because it have some limitation like it is dynamic but still you need to manually assign ip sometimes and it does not know if device is no longer connected to network it can assign that ip to other device.

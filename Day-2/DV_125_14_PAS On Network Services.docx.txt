@@ -1,0 +1,63 @@
+﻿DV_125_14_PAS On Network Services
+Self-Assessment Sheet
+
+
+1. What is a Web Server?
+responsible for handle browser request using well known protocol such as HTTP / HTTPS , and pages are built with html5, html, js and so on.        
+
+
+2. What is a File Server?
+file server where all the files and document uploaded and you can access it any where from network using SMB (server message block) commonly used in windows and for apple (apple filling protocol). and can performed any action like add new file, copy, delete, move and so on.
+        
+3. What is Print Server? 
+it is centralized printer server, so anyone can print anything from anywhere in internet and can use a nearest printer in office. it used SMB, IPP (Internet printing protocol), LDP(Line Printer Daemon).
+
+
+4. What is a (Domain Name System) DNS Server?
+It converts ip to name and vice versa 
+
+
+5. What is a (Dynamic Host Configuration Protocol) DHCP Server?
+It provides dynamic ip from DHCP Pool.
+        
+6. What is a Mail Server?
+Main server used for sending and receiving all of the main for organization. it managed by ISP and local IT department which organization have.
+        
+7. What is a Proxy Server?
+to make organization separate from direct access to company internal server. 
+        
+8. What is an Authentication Server?
+Centralized management authenticator server is used to manage all user name and passwords with various applications in network.
+        
+9. What is SIEM (Security Information and Event Management)?
+It monitor a system logs
+        
+10. What is Forensic Analysis?
+Forensic analysis is a process where some event happened and after even happened the forensic experts start investigating about the what is the cause the event, how it occurred and how it was effect the server. 
+        
+11. What is Syslog?
+Syslog is centralized database system log that included application log, system logs, network logs, operating system logs and so on.
+
+
+12. What is IDS (Intrusion Detection System)?
+Intrusion detection system is identifies possible threat in network and then send alert to system so then manager or a person who allocate to observe a network traffic, they can review it whether is false positive or not.
+
+
+13. What is IPS(Intrusion Prevention System)?
+IPS not only detect traffic but also it can prevent detected threat to move forward inside the corporate network.
+
+
+14. What is All-in-one security appliance?
+NGFW which used for full packet scanning that identify malware, DDOS & DOS attack, Ransomware, Advanced Persistent Threat, IDS, IPS, and many more.
+
+
+15. What is Endpoint Management Server?
+It is server which manages the end point devices such as computer, switches, router, printer, mobile (MDM is endpoint management server).
+
+
+16. What is a Legacy System?
+A system which became a older after new version of service available in organization.
+
+
+17. What is an Embedded System?
+It is pre built system which means you don’t have access to system to modify it or upgrade it. because it embedded with pre instruction.

@@ -1,0 +1,84 @@
+﻿DV125_49_PAS On Inkjet Printers
+Self-Assessment Sheets
+
+
+Q1. What type of printer is usually found at home? **
+Ans: Inkjet
+
+
+Q2. What are the advantages of using an inkjet printer? 
+Ans: Quite, High resolution color
+
+
+Q3. What are the drawbacks of using an inkjet printer? 
+Ans: cartridge expensive and only available to manufacturer 
+
+
+Q4. The ink used in inkjet printers tends to fade rapidly over time and can easily clog. (True/False)
+Ans. False
+
+
+Q5. What are the components color of the ink used in inkjet printers? 
+Ans: ink  cartridge
+
+
+Q6. What is an integrated print head? **
+Ans: some of ink cartridge not only contain ink but it also contain print head that allows to change cartridge and replace new ink and same time replace a new print head at same time
+
+
+Q7. What does an integrated print head do? **
+Ans: deposition ink into paper while printing 
+
+
+Q8. Where is the printhead located? 
+Ans: bottom of ink cartridge
+
+
+Q9. What is found on the front of an inkjet printer? 
+Ans: ink cartridge
+
+
+Q10. What do the feed rollers do? 
+Ans: pull paper 
+
+
+Q11. Why should the feed rollers be maintained? 
+Ans: paper easily moved to feed roller
+
+
+Q12. What is a duplexer? 
+Ans: print both side of page
+
+
+
+
+Q13. How does a duplexer work? 
+Ans: flip the page over
+
+
+Q14. What can be seen inside an inkjet printer? 
+Ans: belt and carriage
+
+
+Q15. What is inkjet printer calibration? 
+Ans: to perform color perfectly align setting
+
+
+Q16. Why do you use the calibration option? 
+Ans: to set color perfectly align into printer
+
+
+Q17. What does a calibration page from an inkjet printer look like? 
+Ans: CMYK print all side of paper with density of color
+
+
+Q18. When we know that printer is very well aligned and calibrated?
+Ans. by viewing CMYK written in left bottom of paper
+
+
+Q19. Why do we use Brown belt in printer?
+Ans. move entire carriage back and forward on entire page. (for print on paper)
+
+
+Q20. What does CMYK stand for?
+Ans. Cyan, Magenta, Yellow, Black

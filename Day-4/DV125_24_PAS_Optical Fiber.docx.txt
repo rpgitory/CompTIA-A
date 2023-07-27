@@ -1,0 +1,61 @@
+﻿DV125_24_PAS_Optical Fiber
+Self-Assessment Sheet
+
+
+Q1. What are the benefits of using ethernet over optical fiber as opposed to twisted pair copper cabling? 
+Ans: There are many benefits for using ethernet over optical fiber is very light compared to twisted pair cable and speed is much faster than copper cables also it is flexible so robust. 
+
+
+Q2. What do you mean by transmission by light?
+Ans. it means transferring data speed is as light speed. (it can travel as fast light go), visible spectrum.
+
+
+Q3. Another characteristic of fiber optic communication is because we’re sending light signals, there’s no ______________.
+Ans. Radio frequency or electromagnetic interfearance
+
+
+Q4.What is the advantage of using fiber optics for communication? 
+Ans: data loss is negligible, not breaking data, speed is faster, no radio frequency so its secure bcz no one intercept in between signals
+
+
+Q5. Radio frequencies tend to have a larger distance than fiber optics. (T/F) 
+Ans. False
+
+
+Q6. What if there’s any radio frequencies in your immediate area, then what is the impact on Fiber optics? **
+Ans. Nothing impact anything on fiber optic
+
+
+Q7. What does the fiber optic connection look like? 
+Ans: small dote
+
+
+Q8. What is the purpose of the buffer coating in a fiber optic cable? **
+Ans: Protect everything that inside fiber option cable that includes cladding, fiber optic cable, core
+
+
+Q9. What is the purpose of the cladding surrounding the core in fiber optics? **
+Ans: it absorbs or low reflect light if anything goes wrong or light wants to go outside cable.
+
+
+Q10. What is usually found at the end of a fiber optic connection? **
+Ans: receiver 
+
+
+Q11. What are two broad categories of fiber optics? **
+Ans. multimode fiber and single mode fiber
+
+
+Q12. What type of fiber optic cable is commonly used for large range communication? Ans: single mode fiber (100km)
+
+
+Q13. Each networking standard has its own set of maximum distances that you can use, depending on what type of____________you’re using.
+Ans. cable
+
+
+Q14. What type of light source is commonly used with multi-mode fiber? 
+Ans: LED
+
+
+Q15. What type of fiber optic cable is commonly used for short range communication? 
+Ans. multimode fiber (2km upto), ex LED

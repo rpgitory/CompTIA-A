@@ -1,0 +1,156 @@
+﻿DV125_58_PAS_Client-side Virtualization
+Self-Assessment Sheet
+
+
+
+
+Q1. What does virtualization technology allow us to do? 
+Ans: To run multiple os on one environment,
+
+
+Q2. What are examples of Virtualization Technology? 
+Ans. Virtual Box, VmWare
+
+
+Q3. How does each individual operating system view their resources? 
+Ans: like they have own resources 
+
+
+Q4. What type of virtualization is commonly found in a data center or enterprise environment? **
+Ans: Standalone server
+
+
+Q5. How long has virtualization been around? 
+Ans: since 1967
+
+
+Q6. What are some of the uses of virtualization? 
+Ans: legacy software running
+
+
+Q7. What can you do with virtual machines? 
+Ans: run multiple os on one host
+
+
+Q8. What is one example of how virtual machines can be helpful? 
+Ans: run each application instances separately 
+
+
+Q9. What operating systems can be run on one single desktop? 
+Ans: IOS, Windows, Linux
+
+
+Q10. What does Virtualization as a technology allow us?
+Ans. create separate instances for each OS or application 
+
+
+Q11. What are the advantages of virtualization? **
+Ans: can run legacy software using virtualization 
+
+
+Q12. : What is the purpose of virtualization? 
+Ans: no need to reboot or different partition for os
+
+
+Q13. The software that’s able to keep track of our storage, our memory, our CPU, and everything else between all of these different virtual machines is called the __________.
+Ans.hypervisor
+
+
+Q14. ___________________ really does describe exactly what the software is doing.
+Ans. hyerpvisor 
+
+
+Q15. We’re able to run multiple operating systems, but the memory, the storage, the networking, and everything else is managed as if it is its own _____________.
+Ans. singe OS
+
+
+Q16. How do you ensure that your CPU is ready to be used with virtualization software?
+Ans. hypervisor can take advantage of virtualization capability that already in your system.
+
+
+Q17. What hardware is built into CPUs running on an Intel platform? **
+Ans.  virtualization technology (VT)
+
+
+Q18. What hardware is built into AMD CPUs for virtualization? **
+Ans.  AMD-V
+
+
+Q19.What should be taken into consideration when planning to do virtualization on a desktop? 
+Ans:  Memory
+
+
+Q20. How much memory do I need to run multiple VMs? 
+Ans:  OS requirement 
+
+
+Q21. What do you need to consider when creating a virtual machine? 
+Ans:  Disk space
+
+
+Q22. Why should you consider the amount of storage space when creating a virtual machine? 
+Ans: to run os smoothly
+
+
+Q23. What should you configure when creating a virtual machine? 
+Ans:  network, NAT, Bridge
+
+
+Q24. What is an example of how a developer might take advantage of a VM?  **
+Ans: sandboxing 
+
+
+
+
+Q25. What benefits does a Virtual Machine provide? 
+Ans: whatever experience or performing in virtual box it will not come out from it. 
+
+
+Q26. What is the ability of virtual machines? 
+Ans: technological safe space
+
+
+Q27. Working in a VM, especially a virtual machine that is exactly the same as a production network, is perfect for a ______________.
+Ans.  developer 
+
+
+Q28. What does the testing in a virtualized environment allow the developers?
+Ans. isolating from host system and limit a access of machine in other parts of network.
+
+
+Q29. What is a major concern with running virtual environments? **
+Ans: VM escaping
+
+
+Q30. What can happen once malware gains access to a hypervisor? 
+Ans: if affect all vms
+
+
+Q31. Have any vulnerabilities been identified in the past that allowed for VM escapes? Ans: Yes
+.
+Q32. What security measures can be used to protect virtual machines? 
+Ans: Host-based firewall, antivirus software, anti-spyware
+
+
+Q33. What is the potential danger of using hosted services for virtual machines? **
+Ans: Pre-configure vms installing from internet
+
+
+Q34. What should you be aware of when using someone else's virtual machine? 
+Ans:  pre-configure or pre-installed malware might have with vm.
+
+
+Q35. What are some different ways to configure the networking between VMs? 
+Ans: client side virtual machine manager have their own virtual(internal) network, shared network address (virtual machine might have exact same ip that host system have), NAT (private ip), bridge ip (every Vm has own ip address).
+
+
+Q36. What type of IP address does a virtual machine use? **
+Ans: Host Ip, NAT, Bridge Ip (virtual machine own IP)
+
+
+Q37. How does a virtual machine obtain an IP address? **
+Ans: bridge will provide own vm ip
+
+
+Q38. How can you lock down a VM so there is no communication outside of the local virtualized environment? 
+Ans: NAT(private address)

@@ -1,0 +1,93 @@
+﻿DV125_36_PAS_On RAID 
+Self-Assessment Sheet
+
+
+Q1. What is used to store large amounts of information? 
+Ans: Hard Drives
+
+
+
+
+Q2. What can happen to hard drives eventually? 
+Ans: They eventually break
+
+
+Q3. What can be done to ensure data remains available if a drive fails? 
+Ans: Use array of drive 
+
+
+Q4. What is RAID? 
+Ans: It is not backup, it is a very good way to backup data.(way to backup data), it is a uptime and availability 
+
+
+Q5. What does RAID stand for? 
+Ans: Redundant Array Of independent Disks
+
+Q6. What is the difference between earlier versions of RAID and the current version? 
+Ans: earlier acronym name is independent disk and now inexpensive disks
+
+
+Q7. Do all RAID levels provide redundancy? 
+Ans: No (some are not, RAID 0)
+
+
+Q8. We referred to different types of RAID as ____________.
+Ans. levels
+
+
+Q9. What is RAID 0 or striping? 
+Ans: it store data in equally separately in two drives
+
+
+Q10. What is the benefit of splitting a single file across multiple drives? 
+Ans: high performance (read write data speed high)
+
+
+Q11. What is the problem with RAID 0? 
+Ans: one broke then it can not retrieve data or file. Bcz half lost
+
+
+Q12. How is RAID 1 different from RAID 0? 
+Ans: It completely copy of one drive into another drive
+
+
+
+
+Q13. What is the benefit of having duplicate drives? 
+Ans: one broke so still can retrieve data from another drive
+
+
+Q14. What is the consequence of having duplicate drives? 
+Ans: required larger storage (approximately twice of it)
+
+
+Q15. : What is RAID 5? 
+Ans: Stripping with parity
+
+
+Q16. How does RAID 5 work? 
+Ans: all data stored in all across the drive and there is a parity assurance additional drive
+
+
+Q17. What is the purpose of RAID 5? 
+Ans: high redundancy, increase performance 
+
+
+Q18. What happens if a single drive is lost in a RAID system? 
+Ans: it can recover or restructure data based on other drive 
+
+
+Q19. What is RAID 10? 
+Ans: Stripe of mirror
+
+
+Q20. What does a RAID 0 configuration look like? 
+Ans: spread data in equally in all drives
+
+
+Q21. What is RAID 1 plus 0? 
+Ans: Mirroring each drive 
+
+
+Q22. What are the benefits of RAID 1 plus 0? 
+Ans: any one drive broke, we still up running bcz we have exact duplicate of that strip(drive)

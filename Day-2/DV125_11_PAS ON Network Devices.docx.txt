@@ -1,0 +1,51 @@
+﻿DV125_11_PAS ON Network Devices
+Self-Assessment Sheet
+
+
+        
+1. What is a Router?
+Router is a device that forward network traffic between two devices on internet. It forwards traffic based on destination address within the packet.
+
+
+2. What is a Switch?
+Switch is a device which connects multiple network within LAN and it forwards the traffic using mac address. Switch is a device that send traffic into high speed because a lot of forwarding decision based on hardware device itself.
+
+
+3. What is an Unmanaged Switch?
+Unmanaged switch is just simply connects all devices in one LAN. It does not required any configuration and probably it does not have much functionality included.
+        
+4. What is a Managed Switch?
+Managed switch have many functionality such as controlling network traffic, differentiate two or more VLAN with different IP subnet, it can also prioritize the network flow based on specific given input, it can also make mirror of network flow and that can use for monitoring with third party software like Splunk,Qradar, this switch can eliminate loops in network by using STP, it also provides advanced security feature like port security, MAC filtering, and 802.1X authentication.
+        
+5. What is a Bridge?
+Bridge is nothing but communication way between two devices. ex. Access point it is a device that can communicate via wired and it can also transfer data through wireless signals based on MAC address(forward traffic based on MAC, just like switch do).
+        
+6. What is a Patch Panel?
+It is a point where all cables which connected to office and on other side it connect to server where if any person changes their location so it does not required to changes entire cables configuration instead of just changed cable between patch panel to server. 
+        
+7. What is a Firewall?
+It managed a network traffic and it can deny and accept traffic based on ip address, generally firewall work on layer 3-4 which is network but it can work on application layer too that is responsible for IDS, IPS and many other features.
+        
+8. What is a Hub?
+Hub is also called as repeater, Once it receive packet then it send to all ports which connected to hub. it works on half duplex, so there are often collisions in the hub.
+        
+9. What is a Cable Modem?
+It is used for allowing multiple frequency network traffic using same wire or ethernet. it is mostly used for high speed data transfer and server a bridge between cable provider networks and user home business network.
+        
+10. What is a DSL Modem?
+Asymmetric digital analog, DSL (Digital subscriber Lane) mostly used in telephone line for existing high speed data transferring such as multi media, video service and so on. DSL is Asymmetric because the downloading speed is faster than uploading speed. there is distance limitation (it can travel through 10,000 feet then it get weaker signals), common speed range 52mbps for download / 16mbps for upload.
+        
+11. What is ONT?
+Optical Network Terminal, where it connecting with fiber optics instead of copper wired. this device usually outside of building where it differentiate network between your ISP and your business network which called as D-Marca point.
+        
+12. What is Network Interface Card (NIC)?
+Network interface card, it is available in each device which connected to internet. NIC is responsible to have IP and can interact on internet to other device (Other NIC)
+        
+13. What is a Wireless Access Point (WAP)?
+Wireless Access Point is a service which allowed device to connect device through wifi.
+        
+14. What is a Wireless LAN Controller?
+Wireless LAN controller is management and administrator of wireless network. it involved central management for wireless control where it can monitor entire wireless traffic which communicate with all devices, it can set access control based on devices and based on any type communication.
+        
+15. What is a Repeater?
+It receive a signal and send(retransmit) it back to another side same pattern with strong signal because repeater normally used in between when signal become weak or it needs to travel far.

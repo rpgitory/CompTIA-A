@@ -1,0 +1,168 @@
+﻿DV125_47_PAS On Laser Printers
+Self-Assessment Sheet
+Q1. Laser Printers are commonly found in__________and ___________.
+Ans. home, office
+
+
+Q2. How does a laser printer work? 
+Ans: high voltage power, toner, ink, head and paper
+
+
+Q3. What are the advantages of using a laser printer? 
+Ans: high quality output with very fast printing speed
+
+
+Q4. What is responsible for producing the image on the sheet of paper? 
+Ans: lot of moving parts, required memory in printer, messy structure in printer.
+
+
+Q5. What does the laser do? 
+Ans: laser write or paints exact what you want to do on paper
+
+
+Q6. What is the imaging drum? **
+Ans: taking that data image and pick some toner, transferring that tonner into paper and it will produce or presented final out put.
+
+
+Q7. How do you replace an imaging drum? 
+Ans: by replacing cartridge.
+
+
+Q8. What if you are replacing toner cartridges?
+Ans.for imaging drum
+
+
+Q9. What is the purpose of a fuser assembly? **
+Ans: to permanently print image on paper so fuser will apply heat and pressure to melt toner so it will permanently fix on page
+
+
+Q10. What is the fuser assembly inside of a laser printer? 
+Ans: Dark round drum
+
+
+Q11. How can you easily replace the fuser assembly if there are any problems? 
+Ans: by releasing hooks 
+
+
+Q12. What colors are usually installed into a laser printer? 
+Ans: cyan, yellow,magenta, black
+
+
+Q13. How are the colors from the individual cartridges combined into a single page? 
+Ans: belt 
+
+
+Q14. Colors are usually installed into the laser printer as ____________separate cartridges.
+Ans. equally 
+
+
+Q15. What do each separate cartridge allow us?
+Ans. pull out color 
+
+
+Q16. What is transferred onto the belt in the printer? 
+Ans: color
+
+
+Q17. How is a single page from the printer tray sent through the printing process? 
+Ans: pick up roller
+
+
+Q18. What might be the problem if no pages are being picked up in a printer? 
+Ans: pick roller 
+
+
+Q19. What do you need to do if the pickup roller is worn down? 
+Ans: replace with new pick up roller (in laser printer)
+
+
+Q20. What do the pickup rollers do? 
+Ans: picking up a single page
+
+
+Q21. What is the purpose of the separation pad? 
+Ans: pull just top of page into pickup roller
+
+
+Q22. How expensive is the separation pad? **
+Ans: inexpensive 
+
+
+Q23. What is duplexing? 
+Ans: two side printing
+
+
+Q24. Does duplexing require any human intervention? 
+Ans: no
+
+
+Q25. How does a printer configured for duplexing work? 
+Ans: by choosing option to print two side of page
+
+
+Q26. What type of hardware is needed for duplex printing? 
+Ans: some mechanism that flip a page automatically 
+
+
+Q27. How does the duplex assembly work? 
+Ans: it will flip automatically page 
+
+
+Q28. How does the duplex assembly work? 
+Ans: 
+
+
+Q29. What is used to provide a negative charge to the photosensitive drum during the charging phase? 
+Ans: charge roller or corona wire 
+
+
+Q30. What is the purpose of the negative charge? 
+Ans: it clears the drum
+
+
+Q31. What happens during the exposing phase? 
+Ans: laser writing image into photo into drum (creats positive charge)
+
+
+Q32. What is the purpose of the charging phase in the laser printer? 
+Ans: for cleaning uses negative charge and for printing positive charge
+
+
+Q33. What is phase six of the laser printing process? 
+Ans: fusing (heat + pressure)
+
+
+Q34. What is Step 7 of the printing process? 
+Ans: cleaning 
+
+
+Q35. What is the process of printing a single page on a printer? **
+Ans:  processing then charge then print via laser points, then developing, then paper came then transferring and fusing then clean toner.
+
+
+Q36. What is the first step in the laser printing process? 
+Ans: Processing
+
+
+Q37. What is the fifth step in the printing process? 
+Ans: Transferring image 
+
+
+Q38. Which step is known as a fusing step and what it is?
+Ans: sixth
+
+
+Q39. What would be the final step in the printing process? 
+Ans:  cleaning toner
+
+
+Q40. How many total steps are there in the printing process?
+Ans. 7
+
+
+Q41. Third step of the printing process is the ________stage.
+Ans. Laser
+
+
+Q42. In which step we're writing a negative charge to the photosensitive drum?
+Ans.  2nd

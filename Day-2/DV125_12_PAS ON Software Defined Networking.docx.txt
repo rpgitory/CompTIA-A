@@ -1,0 +1,49 @@
+﻿v
+DV125_12_PAS ON Software Defined Networking
+Self-Assessment Sheet
+
+
+1. What is Software Defined Networking (SDN)?
+It is a method where network manage control on cloud instead of actual network device data plane. In traditional network device have data and control plans where in SDN control plan is centralized by software and data plan remains distributed on network device.                
+
+
+2. What are Computer Networking Planes?
+there are three computer networking planes 
+        data plane
+        control plane
+        management plane
+        
+3. What is Data Plane?
+It process the network frames & packets and also forward, trunking, encrypting, NAT.
+        
+4. What is Control Plane?
+It manage the actions of the data plane,routing tables, session tables, NAT table, it also do a dynamic routing protocol.
+        
+5. What is Management Plane?
+It can access through ssh, snmp, API it is use for managing network devices in cloud and performing task like configuring, provide permission, and so on.
+        
+6. What is Software Defined Networking Controller (SDN Controller)?
+SDN controller interact with underlying device such as switch,router using standard protocol called openFlow and other southbound interface. in SDN, a controller plays crucial role abstracting from control plan to data plane: enabling flexible network management, provisioning dynamic services and implement of network services in more efficient and scalable manner.
+        
+7. What is Distributed Control Planes?
+Distributed control plane, control function over distributed across multiple device or nodes, each node control have some level of control like forwarding network flow can communicate with other node and make collective decision.
+advantages of distributed control planes
+scalable
+fault tolerance 
+fast decision
+flexibility  
+        
+8. What is Controller Based Networking?
+The controller serves as a central point of intelligent of network. it communicate with all device via standard protocol such as openFlow in SDN.
+simplified management
+network programmability 
+dynamic adaptability
+enhanced security
+        
+9. What is a Routed Port?
+router port specifies connection on router where network cable device can be connected. 
+LAN port: - this port usually connected with computer, switches and local devices on ethernet. this port generally label names on port.
+WAN port: - wide area network port usually called as internet port or uplink port. this port used to connect router or external network, WNA port labeled distinct from LAN port such as RJ-45 and RJ-11 connector depending on type of internet (DSL, cabel, ONT)
+        
+10. What is OpenFlow?
+it is protocol which used in SDN data plane and control plane communication in network device plane. in traditional network device these both plane integrated. however in SDN this is where OpenFLow protocol used for centralized management. with openFlow can instruct network device how to process and forward network traffic, that can be defining rules, policies, modify packets, redirect traffic, and network collected statistics. TO openFlow operated Open System Interconnection (OSI) layer2-3        allowing ethernet and ip traffic both provides standardized way to implement and manage SDN architecture, promoting interoperability between vendor network device and SDN controller.

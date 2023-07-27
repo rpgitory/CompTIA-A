@@ -1,0 +1,92 @@
+﻿DV125_25_PAS_568A and 568B Colors
+Self-Assessment Sheet
+
+
+Q1. What are the international standards for cabling? ** 
+Ans. ISO/IEC 11801, TIA (Telecommunication Industry Association in USA or north america)
+
+
+
+
+Q2. The TIA standard for cabling is the _________standard, which is the ___________________Standard.
+Ans. ANSI/TIA 568, Commercial Building Telecommunication Cabeling
+
+
+Q3. What does TIA stand for?
+Ans. Telecommunication Industry Association 
+
+
+Q4. What does the TIA 568 standard cover? 
+Ans: Commercial building telecommunication cabling
+
+
+Q5. What are the two standards for 8P8C connectors? 
+Ans: 568A and 568B
+
+
+Q6. What are 8P8C connectors? **
+Ans. 8 position 8 conductor connectors
+
+
+Q7. What is the 568A coloring scheme associated with? **
+Ans: horizontal cabling 
+
+
+Q8. What is the difference between the 568A and the 568B color standards? 
+Ans:  color position 
+
+
+Q9. : What color scheme do ethernet crossover cables use? 
+Ans: 568A (White-Green,Green,White-Orange,Blue,White-Blue,Orange,White-Brown,Brown)
+
+
+568B(White-Orange,Orange,White-Green,Blue,White-Blue,Green,Orange,White-Brown,Brown)
+        
+
+
+Q10. What do the 568A and 568B standards specify? **
+Ans. only color
+
+
+Q11. What is the difference between T568A and T568B? 
+Ans: Green-white in first block (568A), Orange-white in first block (568B)
+
+
+Q12. How are pins 1 and 2 different between the 568A and 568B standards? 
+Ans: for 568A uses gree-white (pin 1), green (pin 2), for 568B uses orange-white (pin1), orange (pin 2)
+
+
+Q13. What is the best way to tell what standard is in use for an ethernet cable? **
+Ans: first color of wire 
+
+
+Q14. What are the colors in the A and B standard? 
+Ans: orange blue green brown
+
+
+Q15. Write an example of a block that has a  different color assigned to A & B standard. **
+Ans. 
+
+
+- Block Color: Red
+- 568A Standard:
+  - Pin 1: White with Green Stripe (Red)
+  - Pin 2: Green (Red)
+  - Pin 3: White with Orange Stripe (Red)
+  - Pin 4: Blue
+  - Pin 5: White with Blue Stripe
+  - Pin 6: Orange
+  - Pin 7: White with Brown Stripe
+  - Pin 8: Brown
+
+
+- 568B Standard:
+  - Pin 1: White with Orange Stripe
+  - Pin 2: Orange
+  - Pin 3: White with Green Stripe
+  - Pin 4: Blue (Red)
+  - Pin 5: White with Blue Stripe (Red)
+  - Pin 6: Green (Red)
+  - Pin 7: White with Brown Stripe
+  - Pin 8: Brown
+In this example, the pins that have a different color assigned to them in the 568A and 568B standards are marked with "(Red)" after the color.

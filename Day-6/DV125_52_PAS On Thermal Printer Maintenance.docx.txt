@@ -1,0 +1,56 @@
+﻿DV125_52_PAS On Thermal Printer Maintenance
+Self-Assessment Sheets
+
+
+Q1. What do you need to consider when purchasing replacement paper for a thermal printer? 
+Ans: size of paper and thickness
+
+
+Q2. How do you replace the paper in a thermal printer? 
+Ans: open printer and replace to old spool to new one.
+
+Q3. It becomes very easy to quickly replace the paper in a thermal printer. (True/False)
+Ans.True
+
+
+Q4. Why was there missing information on the output of the thermal printer?
+Ans. heating element is dirty so clean it
+
+
+Q5. What can be done to solve the problem of missing information on a thermal printer? Ans: cleaning of heating element using IPA (isopropyl alcohol)
+
+
+Q6. How will you make sure that the cleaning process is right for your printer?
+Ans. check manufacture recommendation for it 
+
+
+Q7. How can we clean the heating elements? 
+Ans:  IPA (isopropyl alcohol), Cleaning Pen
+
+
+Q8. How can you clean out a thermal printer? 
+Ans: Swab gently, or place a card which usually made for cleaning paper path in printer
+
+
+Q9. How does thermal paper get dirty? 
+Ans: paper dust
+
+
+Q10. What is an alternative to using compressed air to clean the inside of electronic equipment? 
+Ans: blower
+
+
+Q11. What kind of vacuum cleaner should you use for electronic equipment? 
+Ans: vacuum which design for specific for electronic equipment.
+
+
+Q12. Why do we use a specific type of vacuum for electronic devices?
+Ans. movement above the dust that makes static electricity which is not good for device.
+
+
+Q13. What should you be careful of when using thermal paper? 
+Ans: avoid hot areas 
+
+
+Q14. Why don't we use thermal printers when archiving information? 
+Ans: easily remove print or fade out of years or after long period of time.

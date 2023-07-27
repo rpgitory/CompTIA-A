@@ -1,0 +1,111 @@
+﻿DV125_59_PAS_How to Troubleshoot 
+
+
+Q1. What can you do when working with your computer at home? 
+Ans: Os upgrade or modify something on your network 
+
+
+Q2. What is a formal change control process? 
+Ans: if you want to change anything in large industry you need to follow the guideline in order to make changes
+
+
+Q3. What is the benefit of having a formal policy for making changes? 
+Ans: everyone will know how you performed changes and if there is any problem in it so it gives you the option to rolling back.
+
+
+Q4. What is a change control environment? 
+Ans: it is corporate policy and procedures 
+
+
+Q5. What steps should be taken before making an actual change? 
+Ans: planning for the change, estimated risk associated with the charges, having recovery plan if something goes wrong during implementation of change, test before making actual make change
+
+
+Q6. What is the Troubleshooting Process? 
+Ans: it starts with some error or broken application process then it follow the whole process and fix or resolved whatever issue that might be 
+
+
+Q7. How does the troubleshooting process start?
+Ans with broken application process
+
+
+Q8. What is the first step in the troubleshooting process? 
+Ans: identify the problem 
+
+
+Q9. How is the first step of the troubleshooting process useful?
+Ans: Information gathering 
+
+
+Q10. Why might it be beneficial to reach out to the user over the phone? 
+Ans: it would tell you more about issue instead of writing in email and waiting for response.
+
+
+Q11. What should we do if we want to see if anything may have changed in the environment from the time that this was working until the time that this problem was reported?
+Ans. talk on telephone
+
+
+
+
+Q12. What is the best way to approach a troubleshooting process? 
+Ans: backup everything that you have then do troubleshooting  
+
+
+
+
+Q13. What should be done before continuing with the troubleshooting process? 
+Ans: backup everything 
+
+
+Q14. What documents should be consulted to identify a potential issue with an application? 
+Ans: log files 
+
+
+Q15. What does Occam's razor tell us? **
+Ans. simplest explanation is often cause the most likely
+
+
+Q16. What should we do when trying to determine the root cause of an application issue? **
+Ans: power connection, network connection plugged well 
+
+
+Q17. What should be done if all of the theories on the list have been tried and the root cause still cannot be identified? 
+Ans: think out of box, list out all unusual causes that the system might have, look for documentation on google and check if someone has had this problem before.
+
+
+Q18. What do we need to implement the troubleshooting step in the production environment? 
+Ans: plan, if any problem occur so how to revert back to previous stage in production environment
+
+
+Q19. What should be done if something unexpected happens during the implementation of the plans? 
+Ans: roll back to previous stage of environment
+
+
+Q20. Do the change control board give us a time and a date to make the change?
+Ans. Yes
+
+
+Q21. : What should be done if there is limited time to fix the application issue? 
+Ans:  so we need to pull additional resources that can pull multiple function simultaneously.
+
+
+Q22. How can you tell if the fix worked? 
+Ans: by performing some test
+
+
+
+
+Q23. What do we need to do after resolving an issue? **
+Ans: implement some preventative measures so this problem will not occur in future
+
+
+Q24. Most environments will have help desk software or _______________that’s perfect for adding this documentation so that everyone will have access to this data.
+Ans. knowledgebase 
+
+
+Q25. What is the troubleshooting process? **
+Ans:  it starts with broken system then we identify the problem then we establish a theory and perform all possible outcomes then establish a plan of action and implement a plan if any unusual problem occurred then after resolving problem we test it by performing some test and make a documentation so in case of future problem will occur so we can resolve it by it.
+
+
+Q26. What do we need to do before implementing a plan to fix the issue during the troubleshooting process?
+Ans. backup everything.

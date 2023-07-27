@@ -1,0 +1,92 @@
+﻿DV125_39_PAS_On Motherboard Compatibility 
+Self-Assessment Sheet
+
+
+Q1. What is the first decision you need to make while building a computer? 
+Ans: Choosing motherboard (Intel, AMD) and it’s compatible processor, RAM, Graphics Card, storage device, NIC and so on.
+
+
+Q2. What factors should you consider when choosing a motherboard and CPU? **
+Ans: manufacture, whether it is intel based or AMD based
+
+
+Q3. Is it possible to switch between an Intel CPU and an AMD CPU? 
+Ans: No
+
+
+Q4. What are the differences between AMD and Intel CPUs? 
+Ans: AMD is bit less expensive than Intel, and internal design and also socket.
+
+
+Q5. What should be checked when selecting a CPU? 
+Ans: Cost effective CPU, powerful CPU
+
+
+Q6. How do you install a CPU? 
+Ans: Open cover and insert CPU in it and locked the cover back
+
+
+Q7. Is there a different installation process for server CPUs? 
+Ans: Quite same but it may has multiple CPU on one motherboard.
+
+
+Q8. How many slots are available on a server motherboard? 
+Ans: 4 memory slots  
+
+
+Q9. What type of device are server motherboards typically found in? 
+Ans: Larger ATX sized system
+
+
+Q10. What is typically installed in a rack-mounted device? 
+Ans: cases if motherboard and power supply
+
+
+Q11. What features are present in the older server motherboard? **
+Ans: 2 separate CPU, 4 memory, some expansion slots.
+
+
+Q12. What features are present in the newer motherboard? **
+Ans: 2 separate CPU, 6 memory slots 
+
+
+
+
+Q13. What type of computer system do people generally have? 
+Ans: full sized system which has cpu and monitor inbuilt computer where monitor contains cpu and all component.
+
+
+Q14. How many memory slots are usually available for additional RAM? 
+Ans: 2 or 4 memory slots for RAM
+
+
+Q15. Are there usually expansion slots available? 
+Ans: Yes
+
+
+Q16. What type of motherboard might be used for a very small form factor desktop system? 
+Ans: mini-ITX
+
+
+Q17. What features are important in a laptop motherboard? 
+Ans: Portable,power usage and efficiency
+
+
+Q18. What is the focus of laptop CPUs? 
+Ans: Thermal Throttling when cpu becomes warmer, limiting CPU speed.
+
+
+Q19. What can one do with a desktop system that cannot be done with a laptop? 
+Ans: upgradable, expansion slots, hard to access inside the system (hardware changes)
+
+
+Q20. How does laptop motherboard replacement differ from desktop motherboard replacement? 
+Ans: portable and low power consumptions
+
+
+Q21. What do you have to do if you need to replace the motherboard in your Laptop? 
+Ans: follow the guideline and need to purchase same motherboard which version it has
+
+
+Q22. Since your interfaces, your CPU, your memory, and other features are part of that system board, if any part of that happens to stop working, you’ve got to replace the entire motherboard. (True/False)
+Ans. True

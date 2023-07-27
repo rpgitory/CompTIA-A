@@ -1,0 +1,145 @@
+﻿DV125_62_PAS_Troubleshooting Video and Display Issues
+Self-Assessment Sheet
+
+
+
+
+Q1. What could be the cause of no signal from a video display? 
+Ans: check cable connectivity, VGA,HDMI, Display port
+
+
+Q2. How can the issue of no signal from a video display be resolved?
+Ans: check power cable and input cable
+
+
+Q3. What should you do if the image on the display is very dim? 
+Ans:  check brightness setting
+
+
+Q4. What should you do if you are getting a black screen when you start the Windows operating system? 
+Ans: try different monitor or use VGA F8 generic mode
+
+
+Q5. What might you be able to see on a display with a black screen? 
+Ans:  Use F8 VGA 
+
+
+Q6. What should you check if you're using a VGA connection? 
+Ans: press F8
+
+
+Q7. How can I fix a distorted or misaligned display? 
+Ans: check os setting and refresh rate or resolution 
+
+
+Q8. What does the documentation for the monitors tell you?
+Ans. what resolution and refresh rate monitor support
+
+
+Q9. What if your video adapter supports hardware acceleration?
+Ans.  disable video adapter and then try 
+
+
+Q10. What is a challenge when working with LCD displays? 
+Ans: fixed number of pixels 
+
+
+Q11. What is the best way to get a sharp picture on an LCD display? 
+Ans: by matching native resolution of display 
+
+
+Q12. What does it mean when some letters are larger and more blocky than other letters in an output? **
+Ans: wrong resolution is been used
+
+
+Q13. What should be done if you don't want to use the native resolution of a display? 
+Ans: change resolution by going in display resolution setting 
+
+
+
+
+Q14. Give one example to describe this statement “ if you don't want to use the native resolution of a display” .
+Ans. match a resolution which is approximate same as native resolution like 2560 x 1600 so it is equal to 1920 x 1200
+
+
+Q15. What is the problem of “burn-in”? 
+Ans: a one image on screen stay on screen very long time and when image changes the portion of that image burn out in screen (it means it still showing some part of that image)
+
+
+Q16. What is pixel-shift technology? 
+Ans:  it is technology if image stay on screen long so it automatically slightly moves pixel after certain amount of time.
+
+
+Q17. On LCDs you may see this burn-in referred to as ____________.**
+Ans. image sticking
+
+
+Q18. How can you clean the screen from a stuck image? 
+Ans: by displaying a white screen for extended period of time.
+
+
+Q19. What are dead pixels? 
+Ans: some of pixel that do not have color, it always stays black 
+
+
+Q20. Is there a way to fix a dead pixel on an LCD monitor? 
+Ans: No
+
+
+Q21. What causes flickering of the image? **
+Ans: a loose cable make flicking display
+
+
+Q22. How do you fix a monitor that is flickering? **
+Ans: by checking cabling connection with screen or replacing with new cable
+
+
+Q23. What if there’s a difference between the capabilities of the monitor and what you’re sending to that monitor through the driver? **
+Ans. flickering to output
+
+
+Q24. How can you fix the issue when the output that is shown is the wrong color?
+Ans. check monitor configuration, factory reset 
+
+
+Q25. Does the operating system modify the colors depending on the time of day? 
+Ans: yes
+
+
+Q26. What is important to know when using a monitor with built-in speakers? 
+Ans: is there separate audio cable or confirm the input cable.
+
+
+Q27. How can you adjust the brightness and contrast settings on a monitor? 
+Ans: configuration on monitor
+
+
+Q28. What can cause a display to be black? 
+Ans: if you see on screen that it slightly on so it might be blacklight failure                        
+
+
+Q29. What happens when the backlight fails and how will you resolve it? 
+Ans: replace backlight or buy new monitor
+
+Q30. What is an LCD projector? 
+Ans: large screen projection
+
+
+Q31. Is the lamp inside projectors a hot light? 
+Ans: Yes
+
+
+Q32. What kind of lamp is inside projectors? 
+Ans: bright light lamp
+
+
+Q33. Why is it a best practice to leave the fan running when you turn off an LCD projector? 
+Ans: bcz lamp replacement cost is higer (35$ to 350$)
+
+
+Q34. What should you do if the LCD projector intermittently shuts down and goes completely black but the fan continues to run? **
+Ans: cooling problem and make sure air inside it blowing 
+
+
+Q35. How can I improve the airflow in my projector? **
+Ans: remove blockage or if there is air filter then replace it.

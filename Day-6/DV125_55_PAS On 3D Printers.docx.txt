@@ -1,0 +1,110 @@
+﻿DV125_55_PAS_On 3D Printers
+Self-Assessment Sheet
+Q1. What is a 3D printer? 
+Ans: it prints in 3 dimension 
+
+
+Q2. 3D printer that prints in ____________ dimensions. 
+Ans. 3
+
+
+Q3. We often refer to 3D printers as a ____________________.
+Ans. Additive manufacturing 
+
+
+Q4. What do we do to create a 3D model?
+Ans. additive manufacturing 
+
+
+Q5. What is additive manufacturing? 
+Ans: it is s a set of technologies that assemble objects from smaller pieces of material.
+
+
+Q6. What are 3D printers being used for? 
+Ans: Rapid prototype
+
+
+Q7. What is a very common type of 3D printing? 
+Ans: Filament printing 
+
+
+Q8. What does FDM stand for?
+Ans. Fused Deposition Modeling
+
+
+Q9. Explain filament printing?
+Ans. It melt filament to print 3D objects 
+
+
+Q10. What are the advantages of using this type of 3D printer? **
+Ans: larger print bed than resin printers, minimum of mess
+
+
+Q11. How does the filament printer create 3D objects? **
+Ans. layer by layer
+
+
+Q12. How does an SLA printer differ from a filament printer? 
+Ans. Stereolithography printer make smooth and finely detailed 3D pritns
+
+
+Q13. What does an SLA printer stand for?
+Ans. Stereolithography printer 
+
+
+Q14. SLA Printer is often referred to as_____________. **
+Ans. Resim printer 
+
+
+Q15. How does SLA printers work? **
+Ans. object down into ultraviolet light or a laser or liquid to make it solid, layers are added to bottom
+
+
+Q16. There’s __________that sits on the bottom of this SLA printer, and the object that you’re printing is attached to a ___________that moves up and down. **
+Ans. liquid, build platform 
+
+
+Q17. What is the biggest challenge with resin printing? **
+Ans: manage liqud
+
+
+Q18. You have to use_______________, so that you don’t injure yourself when working with the resin.
+Ans. wear protective gear 
+
+
+Q19. What should you do with leftover resin? 
+Ans: hazardous material to facility in your area
+
+
+Q20. What do we refer to as the large surface used for 3D printing? 
+Ans: The Printing bed
+
+
+Q21. _________________ is a flat surface, and it usually is either adhesive on the bottom with your filament printing or adhesive on the top, so that you’re able to connect it to the build platform with resin printing.
+Ans. The printing bed
+
+
+Q22. What needs to be done to the print bed to ensure a successful print? 
+Ans: completely level and completely clean
+
+
+Q23. What is the print bed for filament printing? 
+Ans: it is a printing surface 
+
+
+Q24. What is the print bed typically made of? 
+Ans: sticky material 
+
+
+
+
+
+
+Q25. Are there different options for print beds? 
+Ans: Yes, like large, compact 
+
+
+
+
+Q26. What is the print bed in resin printing?  **
+Ans: very small area of layer where is the light is able to harden the resin.

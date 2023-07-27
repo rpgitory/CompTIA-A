@@ -1,0 +1,108 @@
+﻿DV125_43_PAS_On Expansion Cards 
+Self-Assessment Sheet
+
+
+Q1. What is one way to extend and add to the capabilities of a system? 
+Ans: Adding additional hardware 
+
+
+Q2. How do you install an expansion card? 
+Ans: Need more then one motherboard providers
+
+
+Q3. What type of card might be installed? 
+Ans: Compatible with motherboard
+
+
+Q4. What might the sound card provide? 
+Ans: output (high-end audio)
+
+
+Q5. What kind of audio outputs does this sound card provide? 
+Ans: high-end audio
+
+
+Q6. What should I do to check what other options I have with my sound card? 
+Ans: documentation
+
+
+Q7. Do I need an external video card if I only need basic video capabilities? 
+Ans: no
+
+
+Q8. What is a discrete graphics card? **
+Ans: it is districete graphics card which is not part of cpu 
+
+
+Q9. What types of interfaces are typically found on the back of a computer with an integrated graphics card? 
+Ans: HDMI, VGA, DVI
+
+
+Q10. How do we use the higher-end capabilities of this card? 
+Ans: connect monitor directly with video card via available connectors
+
+
+Q11. What do you need to take advantage of a discrete graphics processor? 
+Ans: connect monitor directly with video card
+
+
+Q12. How do you provide live streaming? 
+Ans: capture card
+
+
+Q13. What type of interface does the video capture card have? **
+Ans: PCI Express interface 
+
+
+Q14. What type of video input does the card support? 
+Ans: Basic Two types:  HDMI, Coaxial cable connection (SDI interface)
+
+
+Q15. SDI stands for __________________.
+Ans. Serial Digital Interface
+
+
+Q16. How is the SDI brought in? 
+Ans: Through Coaxial 
+
+
+Q17. Does a motherboard come with a wired ethernet connection? 
+Ans: Yes 
+
+
+Q18. What is a Network Interface Card? 
+Ans: hardware interface to communicate with network
+
+
+Q19. When might you need to add an additional Network Interface Card? 
+Ans: servers, routers, security devices
+
+
+Q20. What is the process for installing a network interface card? 
+Ans: same as other devices add in expansion slot
+
+
+Q21. What should you do before purchasing an adapter card? 
+Ans: Check compatible with motherboard, where are you installing it. If installing in server then need multi port interface NIC
+
+
+Q22. What type of software do we need to use the adapter card? **
+Ans: operating system
+
+
+Q23. Why should I download the latest version of a device driver? 
+Ans: check on manufacture website 
+
+
+Q24.How do I install a driver? 
+Ans: documentation 
+
+
+Q25. What do you do when you need to install a new device driver? 
+Ans:  remove older version of driver then install new driver
+
+
+
+
+Q26. How do you check if the operating system is using the new hardware properly? **
+Ans: by using hardware (seeing on device manager)

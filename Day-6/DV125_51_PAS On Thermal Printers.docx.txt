@@ -1,0 +1,65 @@
+﻿DV125_51_PAS On Thermal Printers
+Self-Assessment Sheets
+
+
+Q1. What is a thermal printer? 
+Ans: It does not use any ink instead of it heat on certain part of white paper and then it turns into black.
+
+
+Q2. Do thermal printers use any ink or toner?
+Ans. No
+
+
+Q3. Thermal Printers use _______________ to create the output.
+Ans. Heat
+
+
+Q4. We most commonly associate thermal printers with ________________.
+Ans. Almost silent
+
+
+Q5. What is one disadvantage of thermal printers? 
+Ans: Paper is sensitive to light
+
+
+Q6. What happens if you use clear tape on thermal paper? **
+Ans: it will slowly turns white 
+
+
+Q7. If you're planning to archive any information, you probably want to use a thermal printer. (True/False)
+Ans. Fasle
+
+
+Q8. What is needed to pull paper through a thermal printer? 
+Ans: feed assembly
+
+
+Q9. _______________consists of a long cylinder that holds the paper in place with friction, and gears on the side that turn the cylinder and feed the paper through the printer.**
+Ans. feed assembly
+
+
+Q10. What is the silver component in this printer? 
+Ans: heating element 
+
+
+Q11. How does the heating element create the information on the page? **
+Ans: heat up to create black color on paper
+
+
+Q12. What is the silver heating element? **
+Ans. it will heat up and print on paper
+
+
+Q13. What is thermochromic paper? 
+Ans. it is a paper mostly use in thermal printer or cashier printer
+
+
+Q14. What kind of paper is used in cash registers and credit card terminals? **
+Ans: thermal paper or thermochromic paper
+
+
+Q15. How does thermal paper look compared to regular paper? 
+Ans: Feel very different and works very different than normal paper
+
+
+Q16. What should be kept in mind when buying or replacing paper for a thermal printer? **Ans: when buying paper for thermal printer at a time make sure purchase thermal paper

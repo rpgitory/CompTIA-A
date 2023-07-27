@@ -1,0 +1,90 @@
+﻿DV125_27_PAS_On Video Cables
+Self-Assessment Sheet
+
+
+Q1. What does VGA stand for?
+Ans. Video Graphics Array
+
+
+Q2.  What is the name of the connector associated with the VGA video format? 
+Ans: DB-15 pin connector 
+
+
+Q3. What are the PC System Design Guide Standards? 
+Ans: it’s VGA
+
+
+Q4. What color is associated with VGA? 
+Ans: Blue
+
+
+Q5. If I am connecting a monitor using a VGA connection, do I need to have a separate audio connection? 
+Ans:  Yes
+
+
+Q6. What happens when you extend a VGA signal beyond 5 to 10 meters? 
+Ans: Lose signals 
+
+
+Q7. What type of signal is a VGA signal? 
+Ans: Analog
+
+
+Q8. What type of connector is the VGA connector on the back of a computer? 
+Ans:  15 pin connector
+
+
+Q9. What type of connection is HDMI? 
+Ans: Video and audio stream
+
+
+Q10. What does HDMI stand for?
+Ans. high definition multimedia interface
+
+
+Q11. What type of connector is used with HDMI? 
+Ans: 19 pin connector (Type A), proprietary connector
+
+
+Q12. What types of video output does this video adapter support? 
+Ans: HDMI, Display port, DVI-D (digital visual interface digital) and DVI-I (digital visual interface integrated) [support both digital and analog]
+
+
+Q13. What is DisplayPort? 
+Ans. it send digital information in packetized from display port cable.
+
+
+Q14. What are the two types of DisplayPort interfaces? 
+Ans: displayPort interface and MiniDisplayPort interface
+
+
+Q15. How do you remove a DisplayPort interface? 
+Ans: push down and release mechanism 
+
+
+Q16. Is DisplayPort passively compatible with HDMI? 
+Ans: Yes
+
+
+Q17. What type of cable is needed to connect a computer with a DisplayPort interface to a monitor with an HDMI interface?
+Ans: cable which has displayport connector one side and another side hdmi 
+
+
+Q18. What does DVI stand for? 
+Ans: digital visual interface
+
+
+Q19. How much throughput does a single link connection support? 
+Ans: 3.7 Gbps (HDTV 60 fps)
+
+
+Q20. What does a dual link connection allow us to view? 
+Ans: 7.4 Gbps (HDTV 85 fps)
+
+
+Q21. What type of signals does DVI support? 
+Ans: analog and digital
+
+
+Q22. DVI is a video connection that pass any audio signals through the DVI connection. (True/False)
+Ans. F

@@ -1,0 +1,44 @@
+﻿DV125_15_PAS On IPv4 and IPv6
+Self-Assessment Sheet
+1. How many bits are in an IPv4 address?
+32 bits
+
+
+2. How many bits are in an IPv6 address?
+128 bits
+
+
+3. What are the first 64 bits in an IPv6 address?
+First 64 reserved for network pre-fix remaining 64 for interface identifier.
+
+
+4. What are the second 64 bits in an IPv6 address?
+interface identifier 
+
+
+5. What is the highest possible digit/number for each byte in an IPv4 address?
+255
+
+
+6. What settings to check when troubleshooting IPv4?
+view network connections in windows, network setting in linux
+
+
+7. What is Dynamic Host Configuration Protocol (DHCP)?
+To allocate ip address in network 
+
+
+8. What port does a device use to broadcast to DHCP server?
+67(Listen)-68(send)
+
+
+9. What port does DHCP server use to broadcast to a device?
+67
+
+
+10. What is a subnet mask?
+to find ip is coming from which part of network and it makes separate networks based on subnet mask. to manage the ip request clearly we can use subnet mask and also due to exceeded of Ipv4 address.
+
+
+11. What is default gateway?
+A gateway from where all network traffic go outside the network (to going to internet from company or home network)

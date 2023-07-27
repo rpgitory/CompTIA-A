@@ -1,0 +1,61 @@
+﻿DV125_7_PAS On Mobile Device Connectivity
+Self-Assessment Sheet
+
+1.  Connecting an external device to your tablet or your mobile phone wirelessly you would use what method of pairing?
+Ans: -Bluetooth or Wireless
+
+2. Do you have to go through the pairing process every time when using Bluetooth?
+Ans: - No
+
+3. What mode do you need to be in to be viewable on Bluetooth?
+Ans: - Discovery or Searching
+
+4. Does Bluetooth have pin protection?
+Ans: - Yes
+
+5. What is GPS
+Ans: - Global Position System
+
+6. Who created GPS first?
+Ans: - US Department Of Defense
+
+7. True or False? There are currently only 5 GPS satellites.
+Ans: False
+
+8. How do our phones gather information about where we're located in the world?
+Ans: -Through nearest cellular tower 
+
+9. What is MDM?
+Ans: - Mobile Device Management, It can set policies, installed app, restrict some app to be install in devices, security, 2 factor authentication everything can manage using MDM.
+
+10.  One way to manage all the mobile device being used by your organization.
+Ans: - Mobile Device Management
+
+11.  What is BYOD?
+Ans: - Bring Your Own Device
+
+12.  What is an advantage of using MDM?
+Ans: - We can manage the all device through one app.
+
+13.  If the manager wants to ensure that certain applications are installed, the data is protected, or that certain capabilities of the phone are enabled or disabled, such as the camera, you can do all of that using?
+Ans: - Mobile Device Management
+
+14.  You can use the MDM to manage the type of access control that's being used on a mobile phone. True or False?
+Ans: -True
+
+15.  Can MDM improve security?
+Ans: - Yes
+
+16.  The MDM can also be used to prevent certain applications from being installed? True or False?
+Ans: -True
+
+17.  If our phone can hear the signals coming from at least how many satellites so that we can get very precise information?
+Ans: - 4
+18.  Our phones can calculate where we happen to be based on timing differences from all these different satellites. True or False?
+Ans: - True
+
+19.  Best way to connect external devices wirelessly to a device?
+Ans: - Bluetooth
+
+20. The first step in the pairing process is making sure:
+      Ans: - Bluetooth is on 

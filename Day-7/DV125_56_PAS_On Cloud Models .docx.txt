@@ -1,0 +1,128 @@
+﻿DV125_56_PAS_On Cloud Models
+Self-Assessment Sheet
+
+
+Q1. What is an example of cloud capability?
+Ans. Cloud computing is the use of comprehensive digital capabilities delivered via the internet for organizations to operate, innovate, and serve customers. It eliminates the need for organizations to host digital applications on their own servers
+
+
+Q2. Where can an application be deployed?
+Ans. on cloud
+
+
+Q3. To deploy the application, you can use Data centers that are located in ____________.
+Ans. any where in world
+
+
+Q4. Can you move those application instances from one data center to another where you are effectively following the sun?
+Ans. Yes
+
+
+Q5. What is an efficient way to deploy an application?
+Ans. Pay for time and provide access
+
+
+Q6.  What do some organizations do instead of going to a third party for cloud service?
+Ans. Private clouds 
+
+
+Q7. What is a private cloud?
+Ans. company has own cloud server and infrastructure their own and manage it by own.
+
+
+Q8. Cloud services provided by Amazon, Microsoft, Rackspace, and others can be configured as what?
+Ans. public cloud
+
+
+Q9. What is the combination of using both a private and public cloud?
+Ans. hybride 
+
+
+Q10. What are the advantages of having a private cloud?
+Ans. data within company, full access in hand
+
+
+Q11. What does an organization build that include a database, web server and other devices? 
+Ans. shared cloud 
+
+
+Q12. A company may only need the _______________ to be able to load the software and deploy these cloud instances. **
+Ans. raw infrastructure 
+
+
+Q13. If an organization only needs CPU storage and a network to be able to deploy thier application instance, then they want to use ____________________as their cloud deployment model. 
+Ans. Infrastructure as service
+
+
+Q14. What does HaaS stand for?
+Ans. Hardware as a service
+
+
+Q15. Who is responsible for a large amount of implementation in a cloud model?
+Ans. end user
+
+
+Q16. What does a cloud provider provide?
+Ans.  hardware to run application and in some cases provide OS
+
+
+Q17. What is an example of IaaS deployment?
+Ans. web services
+
+
+
+
+Q18. What is the one main benefit the end user has in SaaS?
+Ans. no local installation 
+
+
+Q19. What does SaaS stand for?
+Ans. software as a service 
+
+
+Q20. What isn’t required for any type of software?
+Ans. no local installation 
+
+
+Q21. The end user can simply log in and manage an email distribution list, log in and manage their payroll or any other type of software as a ______________.
+Ans. service implementation
+
+
+Q22. Who is responsible for maintaining the application, storing the data, and keeping all of that information safe?
+Ans. Saas service provider
+
+
+Q23. Google mail is an example of _____________.
+Ans. Saas
+
+
+Q24. Are you responsible for maintaining the google mail?
+Ans. No
+
+
+Q25. What does Google do with the email system?
+Ans. maintaining email server 
+
+
+Q26. A good example of Saas is ______________.
+Ans. Email service
+
+
+Q27. The middle ground between Iaas and Saas is __________________.
+Ans. platform as a service
+
+
+Q28. What is PaaS?
+Ans. someone provides platform then you can build own application and manage it, no maintenance team , no HVAC 
+
+
+Q29. What does the PaaS provider do?
+Ans. platform that can use to build application 
+
+
+Q30. ______________has an extensive platform as a service offering that gives you complete customization over the applications that you can easily deploy on their platform.
+Ans. Paas
+
+
+Q31. If you were planning to deploy the applications in your own data center on your own hardware using applications that you yourself have written, then you’re probably using an ____________where everything in that model is managed by the client.
+Ans. On Premises

@@ -1,0 +1,71 @@
+﻿DV125_3_PAS On Laptop Displays
+Self-Assessment Sheet
+
+1. What does LCD stand for?
+   Ans: - Liquid Crystal Display
+
+2. What is a disadvantage in LCD?
+Ans: -Required separate backlight, Lights replacements is hard, if black light fails it hard to replace 
+
+3. What are three different technologies of liquid crystal displays?
+   Ans: - TN(Twisted Nematic), IPS(In Plane Switching), VA (Vertical Alignment)
+   
+4. If you're looking for the best possible color representation on an LCD display, you'll want to use?
+Ans: - In Plane Switching
+
+5. If you're looking for the best possible response you'll want to?
+Ans: -Twisted Nematic 
+
+6.  If you're a gamer or using some application that has fast moving graphics, what type of LCD should you use?
+Ans : -Twisted Nematic LCD
+
+7. What LCD gives you very good color representation, which is great for using graphics or doing some type of desktop publishing?
+Ans: -In Plane Switching
+
+8. What does TN LCD stand for?
+ Ans: -Twisted Nematic 
+
+9. What does IPS LCD stand for?
+Ans: - In Plane Switching
+
+10. What does VA display stand for?
+Ans: - Vertical Alignment
+
+11.  What is the newest from of display?
+Ans: OLED(Organic Light Emitting Diode)
+
+
+12.  What does OLED stand for?
+Ans: - Organic Light Emitting Diode
+
+13.  OLED has a backlight. True or False?
+Ans: False
+
+14.  In older laptops, you may find that the backlight that it's using is.
+Ans : - CCFL (Cold Cathode Fluorescent Lamp)
+
+15. Newer LCD displays might use what type of lights instead of using a fluorescent lamp?
+Ans: -  LED-blacklit
+
+16. What component in your device may only allow for stylus input, or it might also provide input using a touch screen?
+Ans: - High Resolution~ Display
+
+17.  What type of display does not have liquid crystals?
+Ans: - OLED
+
+18.  Why are OLEDs so thin?
+Ans: - Because it does not have backlight.
+
+19.  In OLED displays, you need glass on the front screen to protect it? True or False?
+Ans: -False
+
+20.  How does OLED work?
+Ans: - OLED display compound emits light when receiving an electric current 
+
+
+
+
+
+
+
+

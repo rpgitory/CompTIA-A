@@ -1,0 +1,85 @@
+﻿DV125_42_PAS_On CPU Features
+Self-Assessment Sheet
+Q1. What is the main difference between 32-bit and 64-bit architectures? 
+Ans: 32 ibt can access 2^32 values persecond where 64 bit can access 2^64 values per seconds
+
+
+Q2. A 32-bit processor can access__________ gigabytes of information, whereas a 64-bit processor can access_____________billion gigabytes of information. **
+Ans. 4,17
+
+
+Q3. How can you find the system type of your Windows system? 
+Ans:  By system property 
+
+
+Q4. What type of hardware drivers do you need if you are using a 32-bit operating system? 
+Ans: 32 bit (x86)
+
+
+Q5. What is x86 software? **
+Ans: Reference back to intel 8086 line 
+
+
+Q6. How can you tell if applications have been written for a 64-bit operating system or a 32-bit operating system? 
+Ans: by looking where application has been installed (installed in \program files (x86) is referred to 32 bit, \program files is referred to 64 bit)
+
+
+Q7. If you're running a 64-bit operating system, you can only run 64-bit applications, but you cannot run 32-bit applications. (True/False?
+Ans.  False
+
+
+Q8. What is the Advanced Risk Machine? 
+Ans: It is commonly used in embedded system, mobile devices, low power devices. It reduces the instruction set of computing (RIC) architecture based efficient and power conscious computing.
+
+
+Q9. What are the benefits of the ARM architecture? 
+Ans: low power, less heat, fast processing, efficient 
+
+
+Q10. What types of devices use ARM? 
+Ans: Low power devices such as mobile, laptop, tablet etc.
+
+
+
+
+Q11. We often refer to a CPU, or a Central Processing Unit, as a ________________.
+Ans .single monolithic device 
+
+
+Q12. The main processing of a CPU occurs on the _____________.
+Ans. processor core
+
+
+Q13. How many cores are in modern CPUs? 
+Ans: multiple core (octa-core)
+
+
+Q14. What is not unusual for multiple cores in a CPU? 
+Ans: multiple core
+
+
+Q15. If you start monitoring the amount of processing occurring on your CPU,you might see such as the _______________. 
+Ans. task manager 
+
+Q16. What does HTT stand for?
+Ans. hyper-threating technology 
+
+
+Q17. What is Hyper-Threading Technology? 
+Ans: it is a threading which looks like there are multiple cpu running on same time but actually it is only physical cpu core running however it just made two different thread for processing.
+
+
+Q18. What is the impact of hyper-threading? 
+Ans: cpu can multitask and complete process early (15% to 30% improvement performance)
+
+
+Q19. Does a modern operating system support hyper-threading? 
+Ans: yes
+
+
+Q20. What kind of hardware is needed to virtualize additional operating systems? 
+Ans: hypervisor (virtualbox, vmware or software that support virtualization)
+
+
+Q21. How can I check if my processor supports Intel Virtualization Technology (VT) or AMD Virtualization (AMD-V)? **
+Ans: Check in BIOS

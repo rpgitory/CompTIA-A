@@ -1,0 +1,33 @@
+﻿DV125_22_PAS ON NETWORK TOOLS
+
+
+Q1. What is cable crimping?
+A.  It is method of connection cable connector with cable.
+
+
+Q2. What is a modular connector?
+A.modular connector known as RJ (Register Jack), it is commonly used for telecommunication and computer networking. it is easy and quick connection of cable for various device.
+
+
+Q3. What is a wifi analyzer?
+A wifi analyzer is a tool which determine a wifi signals strength, wifi security, channel utilization, channel frequency and so on. 
+
+
+Q4. What is a tone generator and probe?
+A. Tone generator and probe is tool which use in identify a cable among hundred of cable, Tone generator generates a signal and probe will just need to get to close the wire and then it will identify it like signal is received.
+
+
+Q5. What is a punch down tool?
+A. It is a tool which used to insert or terminate individual wire into punch down block, punch panel or keystone jack.
+
+
+Q6. What are cable testers?
+A. TDR (high advanced cable tester tool which can also provide signal strength into cable)
+wiremap tester: - check continuity and verify proper connecting wire to connector.
+length and distance: - measure length of tester and also determine fault break through in cable
+tone generator and prob : - used for trace cable from many cable
+ethernet cable tester : - check cable length, wiremap test, check crosstalk and verify network connectivity.
+
+
+Q7. What is a loopback plug?
+A. It is also called as loopback connector, loopback adapter, this device used to check diagnosis network connector, it is typically small plug or connector which simulate the connection of a device itself by creating loopback circuit. used in verify network interface; identify falsy cable or ports and test integrity network connection, it can be used in ethernet, USB, serial port, audio interface.

@@ -1,0 +1,90 @@
+﻿DV125_40_PAS On The BIOS
+Self-Assessment Sheet
+
+
+Q1. What is BIOS?
+Ans: Basic Input Output System, it is a firmware and interface which integrated with motherboard, It provides a low-level software that initializes and controls the hardware components of the computer during the booting process.
+
+
+Q2. What does BIOS stand for?
+Ans. Basic Input Output System
+
+
+Q3.  BIOS is sometimes referred to as the ___________________. **
+Ans. System BIOS, ROM BIOS, ROM or Flash Memory
+
+
+Q4. Is the BIOS stored in Read Only Memory or ROM? **
+ANS: Yes
+
+
+Q5. When you power on your system, it initializes the ____________and the __________, and it begins executing the code of the BIOS. **
+Ans. Memory, CPU
+
+
+Q6. What is the post or power on self-test? 
+Ans: It checks the component that you have in your motherboard like CPU, Memory, Video, other input such as keyboard, mouse
+
+
+Q7. What will the BIOS do after the components are in place? 
+Ans: look for bootdrive ( bootloader ) and start operating system
+
+
+Q8. What is the flash memory used for? 
+Ans: Upgrade BIOS into system or revert back to system if any issue on upgraded system.
+
+
+Q9. What does the BIOS configuration allow for? 
+Ans: interact to hardware to legacy BIOS
+
+
+Q10. What type of BIOS is found on older computers? 
+Ans: text based BIOS
+
+
+Q11. Is it possible to upgrade the capabilities of a legacy BIOS? 
+Ans. no, cannot expand capability 
+
+
+Q12. What does UEFI BIOS stand for?
+Ans. United Extensible FIrmware Interface
+
+
+Q13. What is UEFI BIOS?
+Ans. It is a standard BIOS which allowed many manufacture to make BIOS with same features and capabilities.
+
+
+Q14. What is the most modern form of BIOS? 
+Ans. UEFI BIOS
+
+
+Q15. The EFI Standard is created by_________.
+Ans. Extensible Firmware Interface created by Intel
+
+
+Q16. What does the EFI standard stand for?
+Ans. Extensible Firmware Interface
+
+
+Q17. What does the EFI standard do?
+Ans.  It was originally introduced for replaces new legacy BIOS, it provides advanced and flexible interface for initializing and configuring hardware components during boot process.
+
+
+Q18. The EFI Standard is designed to replace a ________________.
+Ans. Legacy BIOS
+
+
+Q19. Are new computers using a UEFI BIOS? 
+Ans: Yes
+
+
+Q20. What information can be found in the System Information section? 
+Ans: Processor name, product name, memory size, system BIOS version, serial number, Universally unique identifier (UUID), asset tracking number
+
+
+Q21. What can be done from the security area of a UEFI BIOS? 
+Ans: add user or admin password 
+
+
+Q22. ___________________ allows you to install additional hardware drivers so that you can interact with other components that may be connected to your computer, such as a network interface card storage or any other hardware device on that system. **
+Ans.  UEFI driver

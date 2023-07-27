@@ -1,0 +1,152 @@
+﻿DV125_61_PAS On Troubleshooting Storage Devices 
+Self-Assessment Sheet
+
+
+Q1. What does it mean when you see a message on the screen that says, "Cannot read from the source disk"? 
+Ans:  reading and writing problem with storage drive or it might failed 
+
+
+Q2. What is the "click of death"? 
+Ans: when hard drive make loud clicking noise over and over again
+
+
+Q3. What should be done first when troubleshooting storage problems? 
+Ans: make backup of all data
+
+
+Q4. How can I check if my system is overheating? 
+Ans: some error that you receiving from storage drive some from overheating 
+
+
+Q5. What can a user do if their power supply does not have enough power for a storage drive? **
+Ans: check whether it connected new device recently if it is then remove it or upgrade power supply
+
+
+Q6. What if you’re not sure if the problem is with the drive or something outside of the storage drive?**
+Ans. run some hardware diagnosis 
+
+
+Q7. What can the drive manufacturer provide to check the working components of a drive? **
+Ans: hardware diagnostics 
+
+
+Q8. What messages may occur when you boot your system? 
+Ans: drive not recognize, boot device not found
+
+
+Q9. What lights may occur when you boot your system? 
+Ans:  drive not recognized in system
+
+
+Q10. What does it mean when an operating system is not found during startup?  
+Ans: drive is there but os is not installed in storage drive
+
+
+Q11. What is the first step to troubleshoot this issue when an operating system is not found during startup? 
+Ans. check physical configuration, check drive connect properly or not
+
+
+Q12. The ____________maintains the list of priorities for all of the boot devices during startup.
+Ans. BIOS
+
+
+Q13. What is the sequence for booting up in a BIOS? 
+Ans:  Storage drive first, then so on 
+
+
+Q14. What should I check if my system is not booting? 
+Ans: check if storage drive is enable or not
+
+
+Q15. What should you do if you are booting from a new storage drive? 
+Ans: change BIOS sequence number 
+
+
+Q16. What is a potential problem with hard drives? 
+Ans: spinning mechanical 
+
+
+Q17. What can happen if a solid state drive fails? 
+Ans:  still you can read data but not allow you to write data in it
+
+
+Q18. What does RAID stand for?
+Ans. Redundant array of independent disk
+
+
+Q19. What is RAID? 
+Ans: it is a uptime and availability of your data
+
+
+Q20. How do you investigate a RAID controller failure? 
+Ans: storage monitor will tell you or boot up process 
+
+
+Q21. What can a RAID manager tell you? 
+Ans: all list of drive available, what type of models of those drives might be, can status of drive
+
+
+Q22. How many drives is required in RAID 0?
+Ans. two or more 
+
+
+Q23. What happens if a single drive failure occurs in a RAID 0 array? 
+Ans: break array and data loss
+
+Q24. How many drives do you need for RAID 1? 
+Ans: 2 or more
+
+
+Q25. What is the minimum number of drives required for RAID 5? 
+Ans: 3 or more
+
+
+Q26. RAID 10, which you may see written as______________, requires _________________ drives. 
+Ans. 1+0, 4 or more
+
+
+Q27. What is the full form of SMART? **
+Ans: Self monitoring analysis and reporting technology 
+
+
+Q28. What information is provided in SMART data? **
+Ans: drive statistics.
+
+
+Q29. How often will Mini RAID arrays perform their own checks? 
+Ans: once a week, once a month 
+
+
+Q30. What should be done when receiving a message that a drive is failing? 
+Ans: backup data and replace drive as soon as possible
+
+
+Q31.What are the different parts of your computer system that can be used to retrieve or store the data? 
+Ans: memory access, communication across the bus, spinning drive access, writing and reading data in storage device
+
+
+Q32. What are some ways to measure the overall performance of our storage devices?
+Ans. writing and reading speed
+
+
+Q33. IOPS stands for? **
+Ans. Input output operation per seconds
+
+
+Q34. How much IOPS can a hard drive achieve? 
+Ans: 200 IOPS
+
+
+Q35. What is the IOPS of a solid state drive? **
+Ans: 1000000 IOPS
+
+
+Q36. How can we troubleshoot when certain drives are missing from the File Manager? Ans: check BIOS whether drive is located in system or not
+
+
+Q37. If this is an external drive that’s connected via USB, then we want to be sure we have_____________ for the drive and that we’re connecting to the appropriate __________interface.
+Ans. power, usb
+
+
+Q38. How do we reconnect a missing network share? **
+Ans: by login script

@@ -1,0 +1,89 @@
+﻿DV125_10_PAS ON Common Network Ports
+Self-Assessment Sheet
+
+
+1. What is Port 20 (TCP)? 
+TCP/20 FTP data transfer protocol (active mode data)
+
+
+2. What is Port 21 (TCP)? 
+FTP (Control)
+
+
+3. What is FTP (File Transfer Protocol)?
+20 / 21 it is file transfer protocol which required username and password before begin to transfer file or data.
+
+
+4. What is Port 22 (TCP)?
+SSH
+
+
+5. What is SSH (Secure Shell)?
+It is encrypted tunnel which can use to connect remote device securely and it send all traffic encrypted. it works on port 22.
+
+
+6. What is Port 23 (TCP)?
+Telnet (Telecommunication Network Protocol)
+
+
+7. What is Telnet?
+it is used to communicate with server. but it sends unencrypted traffic. 
+
+
+8. What is Port 25 (TCP)?
+SMTP
+
+
+9. What is Simple Mail Transfer Protocol (SMTP)?
+Simple Mail Transfer Protocol, Responsible for sending and receiving emails(mail client-mail server). SMTP used for sending email and for receiving mail it used IMAP or POP3
+
+
+10. What is Port 53 (UDP)?
+DNS
+
+
+11. What is DNS (Domain Name System)?
+It resolved the ip address based on domain name. ex when user search about any particular website at a time in background DNS will works and finds a particular ip that assigned to that website.
+
+
+12. What is Port 80 (TCP)?
+HTTP
+
+
+13. What is Port 443 (TCP)?
+HTTPS or SSL 
+
+
+14. What is HTTP (Hypertext Transfer Protocol)?
+It is used for communicate with web browser(web server) and by other applications.
+
+
+15. What is HTTPS (Hypertext Transfer Protocol Secure)?
+It is upgraded version of HTTP which combination of HTTP+SSL 
+
+
+16. Port 110 (TCP)?
+POP (Post Office Protocol)
+
+
+17. What is Port 143 (TCP)?
+IMAP (Internet Message Access Protocol)
+
+
+18. POP and IMAP?
+POP and IMAP is both used for receiving emails
+POP: - It can provide functionality to access email without internet because it download in local device.
+
+
+IMAP: - It allowed user to manage their email directly on main server without downloading them in their local devices.
+        1 message synchronized (one device add remove or send email it reflect to all other devices)
+        2 server-side-search (it allowed user to search any email from server which eliminates download all email in device)
+IMAP can allow user to access email from multiple device which is one of key feature of it.
+
+
+19. What is POP3 (Post Office Protocol version 3)?
+It is used to receive emails to email client however it cannot used in multiple devices where email client is login. so it can used only in one email client at a time for receiving emails.
+
+
+20. What is IMAP (Internet Message Access Protocol)?
+IMAP used for synchronized email with multiple devices. IMAP4 currently used

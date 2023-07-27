@@ -1,0 +1,81 @@
+﻿DV125_19_PAS ON VLANs and VPNs
+Self-Assessment Sheet
+
+
+* What is a LAN?
+   * Lan is Local area network which connects a devices locally (ex small office all devices which connected with LAN)
+
+
+* Why might we want to segment a network into smaller pieces?
+   * one reason can be a security reason and this is a major reason. 
+        
+* What are the inefficiencies of using multiple switches for a LAN?
+   * purchasing two switches, powering two switches, handling two switches 
+
+
+* What is VLAN?
+   * Virtual LAN, It makes two LAN separate completely even if they are on same switch. 
+
+
+* How does VLAN solve the inefficiencies of using multiple switches?
+   * It virtually create a two LAN with Two different ip subnet.
+        
+* How can we make a LAN more efficient and cost-effective?
+   * Two buy one switch and separate it by VLAN. it will secure and cost efficient.
+
+
+* How does VLAN provide separation between different networks?
+   * using switch port numbers.
+
+
+* What are the advantages of using VLAN over multiple switches?
+   * We don’t need to buy separate switches for both LAN.
+
+
+* How does using a single switch with VLANs help to manage and lower costs for a LAN?
+   * It reduce a cost of buy new switch, with that it also eliminate other cost like managing switch, power of switch and with VLAN it provide same security as we do in separate switches.
+
+
+* What is a VPN and how does it work?
+   * VPN is private tunnel which mostly used to accessing remote device. it connects a device through virtual tunnel which is encrypted so no one can understand or decrypt a traffic between them.
+
+
+* Everything sent over a VPN connection is automatically encrypted, making it unreadable if intercepted by anyone in the middle.
+   * Yes
+
+
+* What does a VPN look like on the desktop of an operating system?
+   * NO, Looks like App or just wifi connection, remote login or look like connected to proxy, sometimes it may required standalone device which often integrated with firewall. 
+
+
+* The user can connect and disconnect from the VPN using this interface and may also have options to configure the VPN connection settings?
+   * Yes
+
+
+* Are VPNs typically hardware or software-based?
+   * software based mostly however some NGFW can act as hardware VPN
+
+
+
+* What is the advantage of using a VPN in a coffee shop?
+   * No one can intercept a traffic and even if someone monitoring traffic after that he can not understand what's going on network.
+
+
+* How does the VPN concentrator handle incoming and outgoing data?
+   * VPN client send encrypted  data to vpn server then vpn server then it decrypt data and move forward to destination and back it with same process.
+
+
+* Can VPN software be installed on operating systems?
+   * Yes
+
+
+* Most modern operating systems come included with some type of VPN client.
+   * yes 
+
+
+* What is a VPN concentrator?
+   * VPN server 
+
+
+* The entire process of VPN data encryption happens behind the scenes and is automatic as soon as you enable the VPN software
+   * Yes.

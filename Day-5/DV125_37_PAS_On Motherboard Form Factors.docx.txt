@@ -1,0 +1,86 @@
+﻿DV125_37_PAS_On Motherboard Form Factors
+Self-Assessment Sheets
+
+
+Q1. What is the fundamental physical component within all of our computers? 
+Ans: Motherboard, Processor, storage device, RAM
+
+
+Q2. What does the motherboard generally contain? 
+Ans: cpu, memory, power
+
+
+Q3. What is one factor when choosing a motherboard? 
+Ans: size
+
+
+Q4. One thing that doesn’t seem to change much between motherboard versions, though, is the _______________.
+Ans. Basic Layout, power connector
+
+
+Q5. How many sizes and types of motherboards are there?  **
+Ans: 40 sizes and types
+
+
+Q6. Are motherboards generally compatible between cases? 
+Ans: yes
+
+
+Q7. Can you fit a very large size motherboard in a desktop computer?
+Ans. Yes
+
+
+Q8. What size of motherboards can you fit in a small form factor device? 
+Ans: smallest
+
+
+Q9. What should you consider when selecting a motherboard? 
+Ans: Media center, video editing system, thin client
+
+
+Q10. What type of motherboard is typically found in a desktop computer?  **
+Ans: Standard ATX 
+
+
+Q11. What is the size difference between a standard ATX motherboard and a Mini-ITX motherboard?  **
+Ans: Standard ATX mostly for desktop computer while Min-ITX for laptop, tablet 
+
+
+Q12. An ATX motherboard is a standard for desktop computers that has been around since __________and is very popular today.
+Ans. 1995
+
+
+Q13. What does ATX motherboard stand for?
+Ans. Advanced Technology Extended motherboard
+
+
+Q14. How many pins does the ATX power connector have? **
+Ans: 20 pin / 24 pins
+
+
+Q15. Does an ATX motherboard have additional power for the CPU? **
+Ans: 4 / 8 pin connector 
+
+
+Q16. How many expansion slots are available? 
+Ans: 4 sloats for memory
+
+
+Q17. Does the motherboard have additional power for CPUs that require some additional voltage? 
+Ans: Yes
+
+
+Q18. What type of motherboard is suitable for small form factors? 
+Ans: An ITX motherboard is suitable for small form factors. 
+
+
+Q19. What is the purpose of using a small motherboard? 
+Ans: for small form factor and small cases
+
+
+Q20. ITX is a style of motherboard that was created by ______________ in __________.
+Ans. VIA Technologies
+
+
+Q21. What are the advantages of using an ITX motherboard? 
+Ans: smaller size, so required smaller cases.

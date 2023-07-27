@@ -1,0 +1,82 @@
+﻿DV125_50_PAS On Inkjet Printer Maintenance
+Self-Assessment Sheet
+
+
+Q1. What is an important maintenance step on an inkjet printer? 
+Ans: Printhead
+
+
+Q2. What is the ink used in inkjet printers prone to? 
+Ans: clogging
+
+
+Q3. How can you tell if a print head needs to be cleaned? **
+A: output has streaks or sections of missing color
+
+
+Q4. How can you clean a printer's print head? 
+Ans: printhead take out and clean clogged manually and place it back in printer
+
+
+Q5. Removing the cartridge to clean the print head or remove the individual print heads themselves is an easy process. (True/ False)
+Ans. True
+
+
+Q6. How can you fix the clog? 
+Ans: by removing manually 
+
+
+Q7. How often do inkjet cartridges need to be replaced? **
+Ans: when they are depleted 
+
+
+Q8. Does this printer have a single cartridge for each color? 
+Ans: no
+
+
+Q9. What if any one of those colors becomes depleted in this printer?
+Ans. replace entire cartridge
+
+
+Q10. What are the advantages of having a single cartridge for each colour?
+Ans. much more efficient when replace single color depleted
+
+
+Q11. How long does it take to replace a cartridge in a printer? 
+Ans: few seconds
+
+
+Q12. What is the cartridge made of? **
+Ans: All plastics 
+
+
+Q13. What do you need to do after replacing a cartridge? 
+Ans: calibrate printer
+
+
+Q14. How can you recycle used cartridges? 
+Ans: manufacture has own option for recycle it 
+
+
+Q15. How do you replace a print cartridge in an inkjet printer? 
+Ans: after certain amount of print paper 
+
+
+Q16. What do you need to do after replacing the print cartridge? **
+Ans: calibrate printer
+
+
+Q17. What is a common printer troubleshooting challenge? **
+Ans. clearing paper jam
+
+
+Q18. How can you remove a stuck piece of paper? 
+Ans. firm try to remove paper on the path that already on and there should be a option to release paper 
+
+
+Q19. What might help with the removal of a paper jam?
+Ans: get lose paper first 
+
+
+Q20. What should be done after a paper jam is removed? 
+Ans: check all side there should be no piece of paper that stuck inside printer somewhare.

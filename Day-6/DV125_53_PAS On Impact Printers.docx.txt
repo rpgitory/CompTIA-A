@@ -1,0 +1,88 @@
+﻿DV125_53_PAS On Impact Printers  
+Self-Assessment Sheet
+Q1. What is an Impact printer? 
+Ans: Dot-Matrix printer is called impact printer which presses against the ribbon to make mark on paper.
+
+
+Q2. _____________ is a type of impact printer.
+Ans. dot-matrix
+
+
+Q3. How does a dot matrix printer work? 
+Ans. presses against the ribbon to make mark on paper
+
+
+Q4. What is the advantage of using a dot matrix printer? 
+Ans: good for carbon / multiple copies, low cost
+
+
+Q5. What is the downside to using a dot matrix printer? **
+Ans: noisy, less resolution 
+
+
+Q6. Why are dot matrix printers perfect if you’re making multiple copies?
+Ans. very fast 
+
+
+Q7. What type of printer is a dot matrix printer? 
+Ans: printer ribbon
+
+
+Q8. What is the resolution of a dot matrix printer? 
+Ans: poor 
+
+
+Q9. Is a dot matrix printer suitable for very graphical output? 
+Ans: No
+
+
+Q10. What is the purpose of the ribbon in a dot matrix printer? 
+Ans: one long ribbon, never ending cycle
+
+
+Q11. Why is the component containing the print head relatively large? 
+Ans: bcz of never ending cycle
+
+
+Q12. How many pins are inside the print matrix? **
+Ans: 24 pins for print one character 
+
+
+Q13. How wide are the pins inside the print matrix? 
+Ans: pin press to ribbon 
+
+
+Q14. What material is the ribbon made of? 
+Ans: Fabric
+
+
+Q15. How do we get output on page?
+Ans. pins pressing in ribbon and ribbon pressing on the page
+
+
+Q16. What should one make sure of when swapping out printer ribbons? 
+Ans: printer model number 
+
+
+Q17. What is inside of a ribbon cartridge? **
+Ans: pins 
+
+
+Q18. Dot matrix printers commonly use a ____________to be able to pull the paper all the way through the printer. **
+Ans. Tractor feed
+
+
+Q19. How is the paper positioned in the printer? 
+Ans: perforations between paper
+
+
+Q20. What should you do after confirming the paper is installed properly? 
+Ans: press paper feed button
+
+
+Q21. What type of paper is commonly associated with mainframe printing? **
+Ans: green bar paper
+
+
+Q22. What is the size of pages that are used in mainframe printing?
+Ans. very long (11x14, height x widths)

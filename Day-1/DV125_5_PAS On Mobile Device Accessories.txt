@@ -1,0 +1,61 @@
+﻿DV125_5_PAS Mobile Device Accessories
+Self-Assessment Sheet
+
+1. If you are someone who takes your laptop back and forth between work and home, what's a good solution for you to minimize all the plugging and unplugging of cables used for devices such as printers, keyboards etc.?
+Ans: - Docking Station. 
+
+2. What does TRRS stand for? 
+Ans: - Tip Ring Ring Sleeve
+
+3. What is one of the challenges our mobile phones and tablets have with speakers that are built in?
+Ans: - Very Small so for much better sound it required external speaker.
+
+4. What are the functions of a stylus?
+Ans: - Handwriting, Note Taking, Signatures, Drawing etc.
+
+5. Can you disable the mouse track pad on your laptop while using an external mouse?
+Ans: -Yes
+
+6. If you need to perform very precise functions or be able to do something very specific on the screen, you may want to try using?
+Ans: - Touch Pen
+
+7. If you're an artist or someone who wants to perform more precise work on a tablet, you may want to try using an?
+Ans: - Active Stylus or Digital Stylus
+
+8. A digital stylus provides you with more functionality and more precise usability than something like a capacitive touch pen. True or False?
+Ans: - True
+
+9. The stylus is not able to communicate independently with the device that's being used if those two devices are not touching each other. True or False?
+Ans: - True
+ 
+10.  If you're using an Apple iPad, you would need to use what type of pen?
+Ans: - Apple Pencil
+
+11.  Using an active stylus you can see as the user is writing on the screen and they apply a little more pressure, then you can see that the difference in the line width changes. True or False?
+Ans: - True
+
+12.  What if you're using a computer that doesn't have any type of capacitive display or any type of active touchscreen that you can interact with?
+Ans: - Drawing Pad
+
+13.  Do laptops include an external mouse?
+Ans: - No
+
+14.  Can you add an external keyboard and mouse on a Mac?
+Ans: - Yes
+
+15. Can you customize exactly the way the trackpad works on your system?
+      Ans: -Yes
+16.  What does TRRS do?
+Ans: - It is take analog audio jack input from microphone and hear audio through copper connection 3.5mm.
+
+17. If you're an Apple user, you may not have the option of a USB or a 3- and 1/2-millimeter audio connection. True or False?
+Ans: - True
+
+18.  What port does apple have?
+Ans: - Type C and 8 pin lighting Port
+
+19.  What's one alternative method an apple user can connect to headphones without the 3.5 mm jack?
+Ans: - Wireless and Bluetooth
+
+20.  If you like a simpler form of connecting and disconnecting your laptop, you may want to use something like?
+      Ans: - Port Replicator

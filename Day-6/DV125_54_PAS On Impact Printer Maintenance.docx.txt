@@ -1,0 +1,60 @@
+﻿DV125_54_PAS On Impact Printer Maintenance
+Self-Assessment Sheet
+
+
+Q1. What is inside a dot matrix printer? 
+Ans: long ink ribbon
+
+
+Q2. How does the ink in a printer ribbon get used up? 
+Ans:  round 
+
+
+Q3. How can the issue of a ribbon cartridge being worn out be resolved? 
+Ans:  by replacing new print head
+
+
+Q4. What causes a dot matrix printhead to fail? 
+Ans: constantly heat and constant movement 
+
+
+Q5. Do we need to replace the entire printhead if it eventually fails?
+Ans. Yes
+
+
+Q6. What is the purpose of the container for the printhead? 
+Ans: Spread heat from print head to air
+
+
+Q7. What is a printhead? 
+Ans: printhead is a print component which insert ink on paper 
+
+
+Q8. What should be done when replacing a printhead? 
+Ans: look for release or lever bar
+
+
+Q9. How is replacing paper in a dot matrix printer different from replacing paper in a laser printer or inkjet printer? **
+Ans: tractor feed paper which pull the paper from side of holes, make sure it straight and line up perfectly.
+
+
+Q10. What type of paper is typically used in a dot matrix printer? 
+Ans: long paper which has holes ins both side
+
+
+Q11. What is necessary when replacing this paper into the printer? 
+Ans: make sure paper fit straight and line up perfectly.
+
+
+
+
+
+
+
+
+Q12. What should you check before using a tractor feed in the printer? **
+Ans:  line up paper and holes position
+
+
+Q13. What if you’re sure that the paper has been installed properly?
+Ans.  push paper feed button

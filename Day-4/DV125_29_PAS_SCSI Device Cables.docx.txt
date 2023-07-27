@@ -1,0 +1,93 @@
+﻿DV125_29_PAS_SCSI Device Cables 
+Self-Assessment Sheet
+
+
+Q1. What does SCSI stand for?
+Ans: small computer system interface 
+
+
+Q2. What is a SCSI interface? 
+Ans: it is a standard interface which is used to connect storage device, printer, scanner and other input device.
+
+
+Q3. What was the purpose of creating the SCSI interface? 
+Ans: connect many devices together in one interface.
+
+
+Q4. How many devices can be connected to one SCSI chain? 
+Ans: up to 16 devices (daisy chanining)
+
+
+Q5. What is the newest SCSI standard? 
+Ans: iSCSI or SCsI over Ip
+
+
+Q6. What types of connectivity does SCSI support? 
+Ans: PATA parallel connectivity and SATA which is serial connectivity.
+
+
+Q7. How many devices could a single SCSI interface support on a narrow bus? 
+Ans: 8 
+
+
+Q8. What was used to connect our scanners and CD-ROM drives before SATA and USB? 
+Ans: SCSI
+
+
+Q9. What is one of the benefits of SCSI and its protocols? 
+Ans: intelligent form of connectivity 
+
+
+Q10. Are SCSI protocols still used today? 
+Ans:  Yes but not as much popular as it was in past
+
+
+Q11. What is the 68 pin connector commonly used for? 
+Ans: SCSI interface (Ultra 3 interface)
+
+Q12. What is the purpose of having a single interface on a computer? 
+Ans: to connect multiple devices 
+
+
+Q13. What is the purpose of a SCSI ID? 
+Ans: To differentiate between all devices 
+
+
+Q14. How does SCSI allow for connectivity to a drive array? 
+Ans: by logical id that allows a reference a single drive within a much larger SCSI ID device
+
+
+Q15. What is the purpose of a SCSI terminator? 
+Ans: to match the termination impedance at each end of SCSI bus
+
+
+Q16. What is a logical unit? 
+Ans: It is defined with each SCSI ID, Separate drives in a storage array or virtual machine.
+
+
+Q17. What is a newer SCSI standard? 
+Ans: Serial attached SCSI or SAS
+
+
+Q18. Is there anything required to use a SAS device? 
+Ans:  Additional setting to make it able to use those serial attached SCSI devices.
+
+
+Q19. What can be seen on the back of an external SCSI storage device? 
+Ans: SCSI interface in and out, power connector, fan cooling 
+
+
+Q20. Are there any buttons to modify the SCSI ID? 
+Ans: Yes
+
+
+Q21. What does a SCSI controller look like when you look inside a computer? 
+Ans: Cables which has many connector 
+
+
+Q22. What does the SCSI terminator look like? 
+Ans: 
+
+
+Q23. What replaced the need for cables with multiple interfaces and devices with multiple SCSI interfaces? ** (No terminator needed, no point to point connection)
+Ans: SATA (Serial interface connection)

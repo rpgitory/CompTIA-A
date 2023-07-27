@@ -1,0 +1,94 @@
+﻿DV125_34_PAS_On An Overview of Memory 
+Possible Answer Sheets
+Q1. What is RAM? 
+Ans: Random Access Memory
+
+
+Q2. What type of memory slots are used in computers nowadays? 
+Ans: DD5 and DD6
+
+
+
+
+Q3. The specific type of memory in your system can vary widely so make sure you look at your_____________________ to know exactly what type of memory needs to be installed in those memory slots.
+Ans.  Motherboard
+
+
+Q4. What is a SO-DIMM? 
+Ans:  small outline DIMM
+
+
+Q5. How do you install a DIMM onto memory slots on a motherboard? **
+Ans: (Dual inline memory) module look into electric contacts which is different both side.
+
+
+Q6. Another common specification for these DIMMs is information is transferred in and out of the DIMM in _____________________data widths. **
+Ans. 64 bit
+
+
+Q7. What type of memory modules are typically used on laptops? 
+Ans: DD4
+
+
+Q8. What type of memory should I install in the memory slots of my system? 
+Ans: if computer then DIMM and if laptop then SO DIMM
+
+
+Q9. What is the black component on memory modules? 
+Ans: Memory Chip
+
+
+Q10. Why do we refer to RAM as a D-RAM?
+Ans. Dynamic RAM bcz it constantly needs to be refresh.
+
+
+Q11. What does the random part of random access memory mean? **
+Ans: means we can access any part of memory storage data simply for asking for it.
+
+
+Q12. What is the clock on our system used for?  **
+Ans: Regulates the flow of data and out of these memory modules, and every clock cycle some data that is transfer either in or out system
+
+
+Q13. Why are there notches on the bottom of the DIMMs and SO-DIMMs? **
+Ans: To identify the type of memory
+
+
+Q14. What if you try to install a DDR2 module into a system with a DDR3 slot?
+Ans.  It not allowed to memory to install bcz of notch
+
+
+Q15. What is the difference between SDR memory and DDR memory? **
+Ans: Single Data Ratecan transfer one data frame per cycle while DDR (Double Data Rate) can transfer double data frame per cycle
+
+
+Q16. What does DDR stand for?
+Ans. Double Data Rate
+
+
+Q17. Why do we use DDR?
+Ans. bcz it can transmit twice of data than SDR
+
+
+Q18. ___________allowed you to increase the data rates to be twice as fast as those older DDR2 systems.
+Ans. DDR3
+
+
+Q19. What is the maximum RAM of DDR3 memory modules? 
+Ans: 16GB
+
+
+Q20. What does the notch at the bottom of a DDR3 memory module do? 
+Ans: Only that installed in system which support DDR3
+
+
+Q21. What is the maximum amount of storage on a single DDR4 module? 
+Ans: 64GB
+
+
+Q22. What type of memory is supported by newer motherboards? 
+Ans: DDR5
+
+
+Q23. What is the difference between DDR4 and DDR5 memory? 
+Ans: Faster speed than DDR4 (size same which is ma 64GB) and notch is moved.

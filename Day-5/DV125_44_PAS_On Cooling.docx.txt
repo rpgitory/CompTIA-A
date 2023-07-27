@@ -1,0 +1,68 @@
+﻿DV125_44_PAS_On Cooling
+Self-Assessment Sheet
+
+
+Q1. What is one of the biggest challenges when it comes to maintaining the operation of a computer? 
+Ans: cooler
+
+
+Q2. How can we provide cooling for our computers? 
+Ans: put cool air in computer
+
+
+Q3. What factors should be taken into account when thinking about cooling a system? Ans: case and style of motherboard layout
+
+
+Q4. What type of adapter cards have a fan directly connected to them? 
+Ans: video card, Graphics card
+
+
+Q5. What is a fan controller? 
+Ans: that controls speed of fan
+
+
+Q6. Is it possible to replace a loud fan with a quieter one? 
+Ans: yes
+
+
+Q7. Are there any computer systems that have no fans at all? 
+Ans: yes
+
+
+Q8. What kind of tests is a passively cooled system put through? 
+Ans: smaller system where fan cannot fit inside case
+
+
+Q9. What is used for passive cooling? **
+Ans: thermal past 
+
+Q10. What is a heat sink? **
+Ans: It is specially device metal which includes copper and aluminum alloy and particular shape which allows take heat from particular component and pass heat by at air specific heat sink
+
+
+Q11. Thermal paste referred to as ___________________or____________.
+Ans. thermal grease or conductive grease 
+
+
+Q12. What is thermal paste? **
+Ans: It is a heat transfer between two surfaces 1 cpu 2 heat sink
+
+
+Q23. How is the liquid cooled? 
+Ans: It is a cooling method which use a liquid to keep system cool and it circulate liquid by pumping.
+
+
+Q24. What is connected to the liquid-cooled system? 
+Ans: CPU connected with in and out block of cooler through radiator which connected with fan
+
+
+Q25. What happens to the hot water from the CPU? **
+Ans: hot water going through radiator and there is cool air that is blowing through and cooling.
+
+
+Q26. What happens as the hot water goes through the radiator? **
+Ans: there is a cool air and it make hot water into cool water
+
+
+Q27. What happens to the cool water after it is cooled down? 
+Ans: it goes to cpu again and make a cycle.

@@ -1,0 +1,70 @@
+﻿DV125_2_PAS On Laptop Hardware
+Self-Assessment Sheet
+
+
+1. What does it mean to be modular? 
+Ans: - Modular means any system part such as memory, disk, battery that can be replaced easily that is called as modular.
+
+2. What type of battery technology do we use today?
+Ans: - Lithium-Ion, Lithium-LiPo
+
+3. What happens each time you charge a battery?
+Ans: - It lost lifecycle or decrease capacity.
+
+4. What is one advantage to using a modular battery configuration?
+Ans: - Easy to configure without opening laptop.
+
+5. True or False? lithium-ion batteries are designed to be 80 percent charged. 
+Ans: -False
+
+6. True or False? In lithium-ion batteries, discharging some of the battery and charging it back up again you have to worry about causing a effect on memory or limiting the amount of capacity that battery might have.
+Ans: -False
+
+7. Where are all the programs that are executing in your operating system executing?
+Ans: - Windows [ C:\Programs Files ], Linux [ /usr, /bin, /sbin ]or Memory
+
+8. What does SO-DIMM stand for?
+Ans: -Small Outline Dual In-Line Memory Module
+
+9. Where is SO-DIMM usually used?
+Ans: - Laptops, Mobile Devices 
+
+10.  Are you able to change/upgrade memory for a device that has it soldered to the motherboard?
+Ans: -No
+
+11.  In what form do older laptops have storage in?
+Ans : -Magnetic disk or HDD 
+
+12.  In what form do new laptops have storage?
+Ans: -SATA, M.2 SSD  
+
+13.  What is one advantage of SSD?
+Ans: - Read-Write is faster so processing is fast compared to HDD.  
+
+14.  What is one way you can migrate from a hard drive to an SSD
+     Ans: - Using sata cable and converter, installing OS in ssd and moving all documents and data into it. or clone(Imaged) of hard drive   
+
+15.  What are some types of authentications?
+Ans: - single sign on, MFA, 2FA, Passkeys, security codes, backup codes, Biometrics, Third Party Authenticator APP (Microsoft Authenticator) 
+
+16. What is one disadvantage of laptop keyboard?
+Ans : - It's very small size so we might missing some of functions keys, Removal or replacement of Key Cap
+
+17.  What is NFC?
+Ans: - Near Field Communication.
+
+18. What does NFC allow you to do?
+Ans: -Transfering data in short distances such as 4cm  or less, it provides authentication of devices without touching devices.
+
+19.  Is m.2 a modular setup?
+Ans: - Yes
+
+20. M.2 interface on an SSD drive is larger than traditional SATA-connected SSD? True or False?
+Ans : - False 
+
+
+
+
+
+
+

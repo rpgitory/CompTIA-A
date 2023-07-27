@@ -1,0 +1,140 @@
+﻿DV125_23_PAS_Network Cables
+Self-Assessment Sheet
+
+
+Q1. What type of cable is commonly used for ethernet networks? 
+Ans: Fiber Optical, Twisted pair copper cable                  
+
+
+Q2. What does an ethernet cable look like inside? 
+Ans: It’s looks like twisted pair of cable and there are many pair inside one cable.
+
+
+Q3. What is the purpose of twisting the wires in a pair? 
+Ans:  Purpose of twisting cable is minimizing the crosstalk and electromagnetic interface.
+
+
+Q4. What is the purpose of having two cables? 
+Ans: each of pair has different level of twist pair rate. So each of them have different level signal
+
+
+Q5. Why are the four pairs of wires different?
+Ans. the four wire pairs has different rate for each pair and colour
+Pair 1: - (white-blue): pair commonly known as “tip” pair, it is used to transmitting and receiving data.
+Pair 2: - (white-orange): this pair is known as “ring” pair, mostly used for sending and receiving data same as pair 1
+Pair 3: - (white-green): same as pair 1 and pair 2
+Pair 4: - (white-brown): pair often unused in ethernet application, it may used for specialized purpose such as Power over ethernet.
+
+
+
+
+Q6. What is twisted pair cabling?
+Ans: it is a two cable which is copper cable and twisted to each other. There are some category of it, unshielded twisted pair, shielded twisted pair
+
+
+Q7. : How many different types of twisted pair cabling are there? 
+Ans: Four types mostly, category 5, category 5e(enhanced), category 6, category 6A(augmented), category 7, category 8
+
+
+Q8. What do we refer to the different types of twisted pair cables as? 
+Ans: category
+
+
+Q9. What is 1000BASE-T? 
+Ans: it is ethernet standards 1gbps 
+
+
+Q10. : What is the maximum distance of 1000BASE-T? 
+Ans: 100 meters
+
+
+Q11. What type of cable is used for 1000BASE-T? 
+Ans: category 5
+
+Q12. What is 10GBASE-T? 
+Ans: it is ethernet standards which is 10gbps  
+
+
+
+
+Q13. What does the "E" stand for in Category 5e? 
+Ans: Enhanced 
+
+
+Q14. What type of cabling is available to purchase today? 
+Ans: category 5e
+
+
+Q15. What type of cabling is commonly used in existing network infrastructures? 
+Ans: category 5
+
+
+Q16. What type of cabling does 1000BASE-T support? 
+Ans: cat5 and cat5e
+
+Q17. Is there an augmented version of category 6? 
+Ans: Yes
+
+
+Q18. What type of cable is commonly used with cable modem networks? 
+Ans: Coaxial cable 
+
+
+Q19. What is the conductor of a coaxial cable? 
+Ans: core of cable that carries electronic signals 
+
+
+Q20. What is the most commonly used type of coax cable? 
+Ans: RG-6, used in cable modem, television 
+
+
+Q21. What is the construction of a coax cable? 
+Ans: inner conductor(core of cable), Dielectric (which is insulated layer and it covered inner conductor or core of cable), shielding (dielectric further surrounding by shielding layer), outer jacket (which is most hardest layer and protect from mechanical damage and insulated)
+
+Q22. What is the plenum? 
+Ans: it is a shield air space where warm air go outside, also in this place where all network cables are there so in case of fire all toxic gas easily outside of plenum 
+
+
+Q23. What is the purpose of the plenum?
+Ans: there are all network cables so in case of fire all toxic gas went out side plenum.
+
+
+Q24. What type of cable should be used in a shared plenum area? 
+Ans: Traditional one is polyvinly cable, fire rated cable jacket (FEP, flourinated ethylene polymer), low-smok polyvinly chloride (PVC)
+
+Q25. What is the jacket of an ethernet cable typically made of? 
+Ans: PVC (polyvinly chloride)
+
+
+
+Q26. What type of cable is usually used for cable runs? 
+Ans:         plenum rated
+
+
+Q27. What is STP?
+Ans: shielded twisted pair
+
+Q28. What type of writing is found on the outside of an ethernet cable? 
+Ans: S/FTP
+
+
+Q29. What do the abbreviations stand for? 
+Ans: category of cable or what type of cable is this
+
+
+Q30. What does S/FTP stand for? 
+Ans: braided shielded/ foil shielded twisted pair
+
+
+Q31. What does F/UTP stand for? 
+Ans: Foil shielded / unshielded twisted pair
+
+Q32. What type of cable is used for direct burial? 
+Ans: direct burial STP
+
+
+Q33. What is used to waterproof the cables? 
+Ans: direct burial STP
+
+Q34. What purpose does the shielding serve? 
+Ans: to protect cable and keep water away from cables.

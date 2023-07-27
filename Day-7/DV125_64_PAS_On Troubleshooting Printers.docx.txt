@@ -1,0 +1,164 @@
+﻿DV125_64_PAS_On Troubleshooting Printers 
+Self-Assessment Sheet
+
+
+Q1. How can you test if a printer is working properly? 
+Ans.  by using test page
+
+
+Q2. How do you send a test page to the printer? 
+Ans: it should be in windows setting or in printer property itself
+
+
+Q3. : What are some ways to diagnose a printer issue? 
+Ans: test function build into a printer console or may be login through printer console and perform printer diagnose 
+
+
+Q4. What if you look at the test page and the output does not look how you would expect it to be?
+Ans. may want to research what causes a problem
+
+
+Q5. What do you do if you have a line that goes all the way down the page on an inkjet printer? 
+Ans: clean printhead or replace it
+
+
+Q6. What do you do if you have a line that goes all the way down the page on a laser printer? 
+Ans: scratch on photosensitive drum so need to replace it
+
+
+Q7.Why is the output on the page very light or difficult to read? 
+Ans: low toner or ink
+
+
+Q8. What could cause items that you print on one part of the page to show up later on down the page? 
+Ans: cleaning process in laser printer
+
+
+Q9. What does a scratched photosensitive drum look like? 
+Ans: line going all the way ground page
+
+
+Q10. What happens when toner sticks to the scratch? 
+Ans:  line went all the way ground the page
+
+
+Q11. What is a symptom of a problem associated with the cleaning process on a laser printer? 
+Ans: if any of toner stick to that scratch 
+
+
+Q12. What can cause garbled print? 
+Ans: bad printer driver or specify a wrong PCL or PostScript
+
+
+Q13. How do you check if an application is printing to the correct printer model? 
+Ans: by printing test print 
+
+
+Q14. What happens when you touch part of the output from a laser printer? 
+Ans: toner is not perfectly touching the paper (heat low issue, fuser)
+
+
+Q15. What could be causing a printer to not produce any output? 
+Ans: ink empty, 
+
+
+Q16. What happens if you send output to the printer that is expecting a different sized page? **
+Ans: give error or still print within a paper and remaining cut it or print out side of paper
+
+
+Q17. What message will you get if the paper size installed in the printer tray is incorrect? 
+Ans: certain size of paper being installed into a particular printer tray 
+
+
+Q18. What should you do if the paper gets stuck in the printer? 
+Ans: pull out lose one and make sure there is no any small piece of paper inside printer
+
+
+Q19. What might cause issues with the printer? 
+Ans: if any small piece of paper inside printer 
+
+
+Q20. How can I fix rollers that are worn or damaged? 
+Ans: replace it
+
+
+Q21. What could be causing my pages to come out creased? 
+Ans:  problem with wrong paper path or paper weight 
+
+
+Q22. What can cause the entire print queue to crash? 
+Ans: particular print job that may cause a entire queue of crash
+
+
+Q23. How does the print spooler service address this issue? **
+Ans: after first time fails it restart pooler, after fail second time it will also restart the service and if any subsequence failure that will not restart 
+
+
+Q24. What will happen if the print spooler service fails multiple times? 
+Ans: restart pooler
+
+
+Q25. What can you do if the print spooler has crashing issues? 
+Ans: check windows logs event viewer 
+
+
+Q26. What is a challenge with color printers? 
+Ans: by exactly same color
+
+
+Q27. What is the first step to calibrating a screen and printer? 
+Ans:  first step calibrating without any additional tools orthird party calibration tool make process easy 
+
+
+
+
+Q28. What is the best way to calibrate a screen?  **
+Ans: by using third party calibrating tool
+
+
+Q29. What type of paper should be used for screen calibration? 
+Ans: bright white paper
+
+
+Q30. What is a calibration tool? 
+Ans: good color representation 
+
+
+Q31. How do we use a calibration tool? 
+Ans: as a secondary utility that provides exactly the right amount of ink to toner to be able to represent what’s on our screen.
+
+
+Q32. What does a color calibration do? 
+Ans: exactly the right amount of ink to toner to be able to represent what’s on our screen.
+
+
+Q33. What could be causing grinding noises from my printer? 
+ANS: problem with mechanism inside a device
+
+
+Q34. What should I do if I hear grinding noises from my printer? **
+ANS: check hardware diagnoses 
+
+
+Q35. What are some of the enhanced capabilities of office printers? **
+Ans: multifunction, finishing  
+
+
+Q36. Does the printer have a stapler built in? **
+Ans: Yes
+
+
+Q37. How is the location of the holes determined? 
+Ans: The location of the holes is determined by the configuration of the print driver. 
+
+
+Q38. What should you check if the output is different? 
+Ans: If the output is different, you may want to check the print driver and confirm that you put the right settings in and that they match the configuration of the printer.
+
+
+Q39. What if you print something in portrait, and it ends up printing in landscape or vice versa?
+Ans. In those scenarios, we’re not getting the right orientation for the page. And so we’ll need to troubleshoot where the problem happens to be occurring. It may be that the printer is following the directions of the print driver, and the wrong option is being selected during the printing process.
+
+
+Q40. What might be the cause of a printer not printing in the correct orientation? 
+Ans: portrait and landscape

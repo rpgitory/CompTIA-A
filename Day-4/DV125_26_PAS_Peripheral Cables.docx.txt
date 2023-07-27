@@ -1,0 +1,99 @@
+﻿DV125_26_PAS_Peripheral Cables
+Self-Assessment Sheet
+
+
+Q1. What is one of the most common methods of connecting peripherals to computers? Ans: USB
+
+
+Q2. One of the early versions of USB was________, and it had ______different speeds.
+Ans. 1.1, two
+
+
+Q3. The early versions of USB had a low speed, which was _________megabits per second and a maximum cable length of around ________ meters.
+Ans. 1.5, 3
+
+
+Q4. What is the maximum speed of USB 2.0? **
+Ans: 480 mbps
+
+
+Q5. What is USB 3.0? 
+Ans: Physical Connector, 
+
+
+Q6. What are some common connectors from the USB 1.1 and 2.0 versions? 
+Ans: Micro USB B
+
+
+Q7. The USB 3.0 micro-B plug is very different from the USB 2.0 version.(T/F)
+Ans. True
+
+
+Q8. What is the USB-C connector? 
+Ans: It is very small and reversible connector which can transfer data and power (100W).        
+
+
+Q9. What is the maximum speed of USB 3.0? 
+Ans: 5 gbps
+
+
+Q10. How does USB 3.2 improve bandwidth? 
+Ans: With two line (each line can send 10 gbps)
+
+
+Q11. What is the size of the USB-C connector? 
+Ans: small
+
+
+
+
+
+
+Q12. What is the name of the USB 3.0 connection type? 
+Ans: Superspeed connector
+        
+Q13. What is an update of USB 3.0?
+Ans. USB 3.1 Gen 1
+
+
+Q14. What is the latest version of USB released in 2017? **
+Ans: USB 3.1 g2, superspeed+
+
+
+Q15.The standard that used to be USB 3.0, which we change to _______Gen 1 is now called ______Gen 1 or superspeed USB __gigabits per second.  
+Ans. 3.0, USB 3.1, 5 gbps
+
+
+Q16. What is the maximum throughput of USB 3.2 Gen 2 times 2? **
+ Ans: 20 gbps
+
+
+Q17. What is Thunderbolt? 
+Ans: High speed serial connector, used in display interface technology
+
+
+Q18. Thunderbolt version 1 is a________channel technology and you can put________ _gigabits per second over each of those channels for a maximum throughput of __________gigabits per second.
+Ans.  two, 10 Gbps, 20 Gbps
+
+
+Q19. What is the total aggregated throughput for a Thunderbolt version 3 connection? Ans: 40 Gbps
+
+
+Q20. Thunderbolt signals can be set over both ______or _________ connections. 
+Ans. USB C, USB A plug
+
+
+Q21. What is the maximum length of a Thunderbolt connection? 
+Ans: 40 Gbps
+
+
+Q22. How many Thunderbolt devices can be daisy-chained together? 
+Ans: 6
+
+
+Q23. Before we had a universal serial bus, we were using _____ pin and ____ pin serial connections on our computers to be able to connect peripherals.
+Ans. 9,25
+
+
+Q24. What type of connectors were used before the invention of the Universal Serial Bus? 
+Ans: DB-9, DB-25

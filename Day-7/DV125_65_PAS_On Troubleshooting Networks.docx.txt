@@ -1,0 +1,179 @@
+﻿DV125_65_PAS_Troubleshooting Networks
+Self-Assessment Sheets
+
+
+Q1. What is a challenging troubleshooting task on a network? 
+Ans: getting no response at all when trying to communicate with device
+
+
+Q2. What should be the first step taken to troubleshoot this network issue? 
+Ans: start with local device and work our way through the network 
+
+
+Q3. What do we do to start testing how far we can communicate through a network? 
+Ans: is it plugged in 
+
+
+Q4. What is the loopback IP address? 
+Ans: 127.0.0.1
+
+
+Q5. What if our loopback address responds to the ping?
+Ans. availability and internet connectivity 
+
+
+Q6. Our next step would be to ping the IP address that’s been assigned to our _______________.
+Ans.  local adapter
+
+
+Q7. What does pinging the IP address do? 
+Ans: to check whether is connected to local network or not
+
+
+Q8. What should we do if the devices on the network respond to our ping? 
+Ans: ping to gateway 
+
+
+Q9. Why is it important to check the default gateway?
+Ans: bcz it is critical link between network and rest of the world.
+
+
+Q10. What is a common way to check if a network is connected to the internet? 
+Ans: ping to 8.8.8.8 or 9.9.9.9
+
+
+Q11. What could be the reason for intermittent connectivity on a wireless network? 
+Ans: interference in wireless network
+
+
+Q12. How can we check if the signal strength is strong enough? 
+Ans:  by using many component work together and check signal strength (transmitting signal, transmitting antenna, receiving antenna etc)
+
+
+Q13. Can access points be configured to automatically find the best frequency? 
+Ans: Yes (by depending on area)
+
+
+
+
+Q14. How can I improve the overall performance of my wireless network? **
+Ans: by manually configuring different channel 
+
+
+Q15. What can be done to optimize wireless signals? **
+Ans: move or modify location of access point 
+
+
+Q16. What is the goal of resolving intermittent connectivity issues? 
+Ans: distance connectivity with device and access point.
+
+
+Q17. What built-in utilities can give you information about the interference? 
+Ans: OS
+
+
+Q18. __________________you can install that can give you more details about the difference between the good signal and the bad signal.
+Ans. third party utilities 
+
+
+Q19. What could be causing interference on a wireless network? 
+Ans: fluorescent light, microwave ovens, cordless telephones, high power sources
+
+
+Q20. How can you evaluate wireless network interference? 
+Ans: signal to noise ratio
+
+
+Q21. What if this ratio was 1:1, where there was just as much noise as there was signal? **
+Ans. would be bad or not operable 
+
+
+Q22. ______________is very good about giving you information in the system tray that can help you with troubleshooting.
+Ans. windows
+
+
+Q23. What if you’re looking at the system tray and Windows says there is limited or no connectivity, or in some cases, no internet access then what's th issue?
+Ans. communicating out the internet issue
+
+
+Q24. What should be checked first when troubleshooting IP address issues? 
+Ans: is ip assigned to device
+
+
+Q25. What if we see an automatic private IP address in this configuration?
+Ans. then DHCP server receiving ip address is not available in DHCP server.
+
+
+Q26. _______________addresses are link local addresses and can only communicate to other devices on our local network.
+Ans. APIPA
+. 
+
+
+Q27. What type of error message would a Windows device display when attempting to access the internet with an APIPA address? **
+Ans:  limited no connectivity and no internet access
+
+
+Q28. How can we check whether or not a device has a valid IP address? 
+Ans: by ping process to check connect with local machine, local gateway, internet (8.8.8.8 or 9.9.9.9)
+
+
+Q29. What happens when a network experiences problems during a voice call? 
+Ans: delayed occurred 
+
+
+Q30. If data doesn’t get through the network, there’s no way to rewind the conversation and rescind all of that data. (True/False)
+Ans. True
+
+
+Q31. What is Jitter? **
+Ans: time between frames in the network
+
+
+Q32. What is the purpose of evaluating jitter? 
+Ans: if we have consistent regular interval then we have phone calls without any problems 
+
+
+Q33. What happens when jitter is not consistent? **
+Ans: delayed in communications or choppy or difficult to understand 
+
+
+Q34. What could cause problems with the quality of our phone calls? 
+Ans: interval in between frames or gaps between it which caused by interval
+
+
+Q35. How to solve the issue of delay or latency on our network?
+ANs. high speed network and low level latency in network.
+
+
+Q36. What are some potential causes of network slowdowns? 
+Ans: if someone using all of bandwidths 
+
+
+Q37. What is the best way to diagnose a network issue? 
+Ans: packet tracer 
+
+
+Q38. What is latency? **
+Ans: a delayed between the request and the response 
+
+
+Q37. What determines how much information can be transferred? **
+Ans: latency value
+
+
+Q38. What can cause latency problems? 
+Ans: sending information back and forth bcz it take time to send all of information to send one side network and receive the response. Or distance and time.
+
+
+
+
+Q39. What is one of the best ways to measure latency? **
+Ans: packet capture can provide detailed analysis to understand how much time occurring between back and forth 
+
+
+Q40. What is port flapping? **
+Ans: it is a physical issue between two devices and being able to maintain that link light
+
+
+Q41. What should you do when you encounter a port flapping problem? **
+Ans: first check physical media itself by using cable tester and some type of advanced testing tool, may be hardware problem so you may want to move to a different physical interface on that switch to see if the port flapping is resolved or if it moves when you move the cable, if it is moves so now you need new hardware devices else there might be issue was with switch port with older device.

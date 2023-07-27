@@ -1,0 +1,62 @@
+﻿DV125_8_PAS On Mobile Device Configuration
+Self-Assessment Sheet
+
+1. What is Microsoft cloud-based services called?
+Ans: - Azure cloud or Microsoft 365
+
+2. What is apples cloud service called?
+Ans: - iCloud
+
+3. What is an advantage to using iCloud?
+Ans: - It can synchronized everything into your mobile phone and macbopk. so even if you lost your phone you just need to sign in to iCloud and it will automatically download all files.
+
+4. On iCloud are you able to select what you want synchronized?
+Ans: - Mail, Pictures, Contacts, Calendar
+
+5.  Is iCloud used for backups?
+     Ans: - Yes
+
+6. Can you use iCloud with Microsoft?
+Ans: - Yes
+
+7. There are limited synchronization options for iCloud. True or False?
+Ans: - False
+
+8. If you lose your iPhone, how can you access your data and is it backed up?
+Ans: - Through iCloud
+
+9. With Microsoft 365, you can only synchronize the email between your mobile device and other email systems you use. True or False?
+Ans: - False
+
+10.  What is outlook a part of?
+Ans: - Microsoft 365 (Cloud)
+
+11.  Can you sync your calendars across all devices using Microsoft 365?
+Ans: - Yes
+
+12.  If you're running your own exchange servers, what service are you using?
+Ans: - Microsoft 365
+
+13. Is there a way if you create a note on your mobile phone, the note automatically appears on Microsoft 365 on your desktop and vice versa?
+Ans: - Yes, Through Synchronization 
+
+14.  To connect to iCloud, you would use your iCloud.
+Ans: -  ID and Password
+
+15. Where can you access your iCloud settings?
+Ans: - IOS / Apple Device / iPad / iPhone / MacBook / Desktop / Laptop
+ 
+16.  There are extensive configuration settings for iCloud, but you can't control exactly what data is synchronized. True or False?
+Ans: - False
+
+17.  You can use iCloud to sync your emails across all your IOS devices. True or False?
+Ans: - True 
+
+18.  Can configure the system to allow cellular transfers or only allow transfers over faster 802.11 networks?
+Ans: - Sending(Uploading) and Receiving(Downloading) data into Cloud.
+
+19. You can enable and disable different network connections or control the use of exactly how you download when you're on a cellular network. True or False?
+Ans: - True
+
+20.  Using cellular networks, you can't download files. True and False and explain?
+        Ans: - False

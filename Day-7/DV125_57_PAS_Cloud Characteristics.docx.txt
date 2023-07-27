@@ -1,0 +1,120 @@
+﻿DV125_57_PAS_Cloud Characteristics 
+Self-Assessment Sheet
+
+
+Q1. What are internal clouds? **
+Ans: to creating resourcing in your own internal network that will use to application deployment
+
+
+Q2. What does building your own cloud means?
+Ans. you need to put these all equipment somewhere, own data center, own racks 
+
+
+Q3. What does using an external cloud mean?
+Ans.  third party build will take care of installing data center, maintenance of it like public cloud
+
+
+Q4. If you’re using an external cloud, then you’re using time that might be on an _____________________.?
+Ans. public cloud
+
+
+Q5. The cost for this external cloud can vary based on the _____________ **
+Ans. cloud provider 
+
+
+Q6. What is an external cloud? 
+Ans: third part who take care of everything to keep running on cloud. 
+
+
+Q7. What type of cost is associated with an external cloud? 
+Ans: may vary to cloud types
+
+
+Q8. Is there a low entry cost for an external cloud? 
+Ans:  Yes
+
+
+Q9. What kind of cost do some platforms use? 
+Ans:  pay as you go, meter cloud services, cost uploading file, downloading file etc etc
+
+
+Q10. What is an example of a non-metered cloud service? 
+Ans: fix cost, no limit for uploading and downloading 
+
+
+Q11. What is one of the advantages of having a cloud-based application instance? 
+Ans. create more instances as load increase and decrease instances as load decrease.
+
+
+Q12. What is rapid elasticity? **
+Ans. scale up as needed and scale down as needed
+
+
+Q13. What does the cloud offer us?  **
+Ans: seamless to everyone
+
+
+Q14. What does this statement mean “Cloud-based platforms also tend to be highly available”?
+Ans. means if anything wrong with one data center, the cloud provider company have backup of entire data so it means it available 24 hours.
+
+
+Q15. What might happen if the power goes out at the data center? 
+Ans: it will use generator 
+
+
+Q16. What are some ways to provide redundancy in a data center? 
+Ans: if lose power there might have generator to keep them running on., 
+
+
+Q17. How can you ensure data remains in sync when deploying application instances to different cloud providers in different countries? 
+Ans: synchronization of data and make it duplicate to all servers
+
+
+Q18. What is Desktop as a Service? 
+Ans: entire os running in cloud
+
+
+
+
+Q19. The applications that are running in this cloud-based service are running as a?
+Ans. Virtual Desktop Infrastructure 
+
+
+Q20. What does VDI stand for?
+Ans. virtual desktop infrastructure.
+
+
+Q21. What do you need to access your desktop from anywhere? 
+Ans: keyboard, mouse, screen
+
+
+Q22. What are we most likely seeing on the tablet we are using to access this Windows desktop? 
+Ans: screen share
+
+
+Q23. How important is the network connection if we are using Desktop as a Service? 
+Ans: internet connection speed
+
+
+
+
+Q24. What technology does Desktop as a Service use? 
+Ans: internet 
+
+
+Q25. You need that _________________in order to take advantage of Desktop as a Service.
+Ans. network connection
+
+
+Q26. What are Amazon’s services called? **
+Ans. workspaces 
+
+
+
+
+Q27. How can one create a Windows workspace using Desktop as a Service? 
+Ans: by selecting workspaces name
+
+
+Q28. What does Amazon’s Desktop as a service allow users?
+Ans. workspaces
